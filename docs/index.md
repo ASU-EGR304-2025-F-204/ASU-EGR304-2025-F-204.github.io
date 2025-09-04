@@ -27,6 +27,6 @@ Dr. Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Caleb Yuen             | [cyuen808.github](https://cyuen808.github.io/) |
-| Name #2                | link |
+| Roshan Roy Geoffrey Joe| [roshanroy-r64x.github](https://roshanroy-r64x.github.io/)
 | Name #3                | link |
 | Name #4                | link |
