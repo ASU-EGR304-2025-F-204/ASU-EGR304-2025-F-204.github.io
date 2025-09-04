@@ -26,16 +26,16 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Caleb Yuen           |      8084768018       |            cyuen@asu.edu            |       @hicaleb808 (Instagram)       |
 |Roshan Roy Geoffrey Joe | 4804171508 | groshanroy@gmail.com | @roshizzle64 (Instagram) |
 |Quinn Maness |  9707590355 | qmaness@asu.edu | @quinn_maness (Instagram) |
-|Member 4 |  ? | ? | ? |
+|Aaron Kiem |  4808828753 | akiem@asu.edu | @aaron24690 (Instagram) |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is text messages, email, and Instagram.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. Text Message (Primary Communication Source)
+2. Caleb is responsible for submission and organization of every assignment. Each team member will discuss assigning roles of responsiblity for carryout each assignment and will be communicated through either text message or in-person meet ups.
 
 ## Meeting Schedule
 
@@ -43,29 +43,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | - | - | - | - | - | - |
+| 11:00 AM | - | - | - | - | - | - | - |
+| 12:00 PM | - | - | - | - | - | - | - |
+| 1:00 PM | - | - | - | - | - | - | - |
+| 2:00 PM | - | - | - | - | C,R,Q,A | - | - |
+| 3:00 PM | - | - | - | - | - | - | - |
+| 4:00 PM | - | - | - | - | - | - | - |
+| 5:00 PM | - | - | - | - | - | - | - |
+| 6:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
+| 7:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
+| 8:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
+| 9:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Caleb Yuen | C |
+| Roshan Roy | R |
+| Quinn Maness | Q |
+| Aaron Kiem | A |
 
 
 ## Meeting Coordination
