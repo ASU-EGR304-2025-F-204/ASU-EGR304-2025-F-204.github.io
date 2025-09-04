@@ -24,7 +24,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Caleb Yuen           |       Text Messaging       |            Email            |             |
-|Member 2 |  ? | ? | ? |
+|Roshan Roy Geoffrey Joe | 4804171508 | groshanroy@gmail.com | @roshizzle64 (Instagram) |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
