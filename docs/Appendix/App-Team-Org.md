@@ -23,7 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Caleb Yuen           |       Text Messaging       |            Email            |             |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
