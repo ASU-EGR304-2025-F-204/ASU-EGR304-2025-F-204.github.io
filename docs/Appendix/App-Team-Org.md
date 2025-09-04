@@ -7,7 +7,15 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. Deliver a functional embedded system that meets or exceeds the project requirements and demonstrates reliable performance under testing.
+
+2. Maintain consistent communication through agreed-upon channels (e.g., text  messaging, email, or weekly meetings) to keep everyone aligned and avoid last-minute surprises.
+
+3. Leverage individual strengths by assigning roles and responsibilities that balance skills, encourage learning, and share workload fairly.
+
+4. Develop professional engineering documentation (clear reports, diagrams, and well-commented code) that reflects industry standards and supports future maintainability.
+
+5. Foster a collaborative and respectful team culture where every member feels supported, accountable, and empowered to contribute ideas.
 
 ## Communication Channels
 
