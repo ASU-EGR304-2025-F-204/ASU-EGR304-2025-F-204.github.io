@@ -74,15 +74,15 @@ _**Table Legend for Appendix Table 2**_
 
 We will utilize the ASU canvas announcements in our group section in order to keep meeting reminders within canvas. We will also make sure to communicate via text, as well via email or instagram.
 
-2. How will your team go about changing or adding meeting times?
+1. How will your team go about changing or adding meeting times?
 
 Communication is key, so we'll always let the whole team know beforehand via an afformentioned method.
 
-3. What's the preferred format for meetings (face-to-face or virtually)?
+1. What's the preferred format for meetings (face-to-face or virtually)?
 
 Face-to-face is definitely prefferable and easily available with our schedules, but if needed we can always do a group call, zoom, discord, etc.
 
-4. Are there any other procedures that your team feels are necessary?
+1. Are there any other procedures that your team feels are necessary?
 
 Good communication is going to always be the key to a team where everyone feels heard, so prioritizing good scheduling as far as meeting location, time, etc. is essential.
 
