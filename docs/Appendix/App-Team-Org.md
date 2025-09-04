@@ -25,7 +25,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Caleb Yuen           |      8084768018       |            cyuen@asu.edu            |       @hicaleb808 (Instagram)       |
 |Roshan Roy Geoffrey Joe | 4804171508 | groshanroy@gmail.com | @roshizzle64 (Instagram) |
-|Member 3 |  ? | ? | ? |
+|Quinn Maness |  9707590355 | qmaness@asu.edu | @quinn_maness (Instagram) |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
