@@ -23,7 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Caleb Yuen           |       Text Messaging       |            Email            |             |
+|Caleb Yuen           |      8084768018       |            cyuen@asu.edu            |       @hicaleb808 (Instagram)       |
 |Roshan Roy Geoffrey Joe | 4804171508 | groshanroy@gmail.com | @roshizzle64 (Instagram) |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
