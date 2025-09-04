@@ -35,7 +35,8 @@ Based on the information provided on in the "Team Member Communication Modes," t
 ## Communication Procedures
 
 1. Text Message (Primary Communication Source)
-2. Caleb is responsible for submission and organization of every assignment. Each team member will discuss assigning roles of responsiblity for carryout each assignment and will be communicated through either text message or in-person meet ups.
+2. Caleb is responsible for submission and organization of every assignment. Each team member will discuss assigning roles of responsiblity for carryout each assignment.
+3. Schdule updates will be communicated through either text message or in-person meet ups.
 
 ## Meeting Schedule
 
@@ -63,7 +64,7 @@ _**Table Legend for Appendix Table 2**_
 | Name | Abbreviation |
 | ----- | :------: |
 | Caleb Yuen | C |
-| Roshan Roy | R |
+| Roshan Roy Geoffrey Joe | R |
 | Quinn Maness | Q |
 | Aaron Kiem | A |
 
