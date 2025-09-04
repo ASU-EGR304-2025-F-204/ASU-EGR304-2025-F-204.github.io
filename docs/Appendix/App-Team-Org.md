@@ -17,10 +17,6 @@ tags:
 
 5. Foster a collaborative and respectful team culture where every member feels supported, accountable, and empowered to contribute ideas.
 
-## Product Mission Statement
-
-Our mission is to design and deliver a reliable embedded system that consistently demonstrates satisfactory performance under real-world conditions. We aim to achieve this through clear and proactive communication, and leveraging each team member’s strengths to balance responsibilities. By producing professional, industry-standard documentation and well-structured code, we ensure the system’s long-term maintainability and usability. Above all, we are committed to creating a collaborative and respectful team culture where every member is eexpected to contribute, ensuring that the product embodies both technical excellence and the vision of our team.
-
 ## Communication Channels
 
 _**Appendix Table 1**: Team Member Communication Modes_
@@ -105,10 +101,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-To being, we are all adults and capable of resolving the conflict within ourselves before external influence in the form of professors or teaching assistants is required. For any conflict, there will be a group vote. If, and only if, the group vote is tied, will we ask others for assistance. If a person's opinion is diminished because of the group vote, we will try to intersect the group and the person's opinions, but we will have to move forward with the overall interests of the group.
+To begin, we are all adults and capable of resolving the conflict within ourselves before external influence in the form of professors or teaching assistants is required. For any conflict, there will be a group vote. If, and only if, the group vote is tied, will we ask others for assistance. If a person's opinion is diminished because of the group vote, we will try to intersect the group and the person's opinions, but we will have to move forward with the overall interests of the group.
 
 
 ## Signatures
 
-Caleb Yuen
+Need to add content!!
 
