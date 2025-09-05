@@ -35,7 +35,7 @@ Based on the information provided on in the "Team Member Communication Modes," t
 ## Communication Procedures
 
 1. Text Message (Primary Communication Source)
-2. Caleb is responsible for submission and organization of every assignment, adn will follow with team members before submission.
+2. Caleb is responsible for submission and organization of every assignment.
 3. Each team member will discuss assigning areas of responsiblity for carryout each assignment.
 4. Schdule updates will be communicated through either text message or in-person meet ups.
 
@@ -59,6 +59,7 @@ _**Appendix Table 2**: Weekly Schedule_
 | 7:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
 | 8:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
 | 9:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
+
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
