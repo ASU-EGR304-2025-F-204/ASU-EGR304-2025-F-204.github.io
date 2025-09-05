@@ -35,9 +35,9 @@ Based on the information provided on in the "Team Member Communication Modes," t
 ## Communication Procedures
 
 1. Text Message (Primary Communication Source)
-2. Caleb is responsible for submission and organization of every assignment.
+2. Caleb is responsible for submission and organization of every assignment, and will follow with team members before submission.
 3. Each team member will discuss assigning areas of responsiblity for carryout each assignment.
-4. Schdule updates will be communicated through either text message or in-person meet ups.
+4. Schedule updates will be communicated through either text message or in-person meet ups.
 
 ## Meeting Schedule
 
