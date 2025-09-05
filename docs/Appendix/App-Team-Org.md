@@ -71,6 +71,7 @@ _**Table Legend for Appendix Table 2**_
 
 
 ## Meeting Coordination
+
 1. What method will you use to remind yourselves of meetings (a shared calendar?) 
 
 We will utilize the ASU canvas announcements in our group section in order to keep meeting reminders within canvas. We will also make sure to communicate via text, as well via email or instagram.
@@ -85,7 +86,6 @@ Face-to-face is definitely preferrable and easily available with our schedules--
 4. Are there any other procedures that your team feels are necessary?
 
 Good communication is going to always be the key to a team where everyone feels heard. Prioritizing good scheduling as far as meeting location, time, etc. is essential.
-
 
 ## Roles & Responsibilities
 
