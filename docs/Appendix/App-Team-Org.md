@@ -93,7 +93,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting leader (Quinn Maness) | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder (Aaron Kiem) | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader (Caleb Yuen) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor (Roshan Roy Geoffrey Joe) | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
@@ -106,5 +106,9 @@ To begin, we are all adults and capable of resolving the conflict within ourselv
 ## Signatures
 
 Caleb Yuen
+
 Roshan Roy Geoffrey Joe
+
 Aaron Kiem
+
+Quinn Maness
