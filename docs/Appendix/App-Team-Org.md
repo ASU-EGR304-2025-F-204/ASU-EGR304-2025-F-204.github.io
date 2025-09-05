@@ -72,21 +72,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-0. What method will you use to remind yourselves of meetings (a shared calendar?) 
-
-We will utilize the ASU canvas announcements in our group section in order to keep meeting reminders within canvas. We will also make sure to communicate via text, as well via email or instagram.
-
-1. How will your team go about changing or adding meeting times?
-
-Communication is key, so we'll always let the whole team know beforehand via an afformentioned method.
-
-2. What's the preferred format for meetings (face-to-face or virtually)?
-
-Face-to-face is definitely preferrable and easily available with our schedules; but if needed we can always do a group call, zoom, discord, etc.
-
-3. Are there any other procedures that your team feels are necessary?
-
-Good communication is going to always be the key to a team where everyone feels heard--pioritizing good scheduling as far as meeting location, time, etc. is essential.
+1. We will utilize the ASU canvas announcements in our group section in order to keep meeting reminders within canvas. We will also make sure to communicate via text, as well via email or instagram.
+2. Communication is key, so we'll always let the whole team know beforehand via an afformentioned method.
+3. Face-to-face is definitely preferrable and easily available with our schedules; but if needed we can always do a group call, zoom, discord, etc.
+4. Good communication is going to always be the key to a team where everyone feels heard--pioritizing good scheduling as far as meeting location, time, etc. is essential.
 
 ## Roles & Responsibilities
 
