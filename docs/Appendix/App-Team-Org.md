@@ -44,21 +44,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | C,R,Q,A | - | - |
-| 3:00 PM | - | - | - | - | - | - | - |
-| 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
-| 7:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
-| 8:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
-| 9:00 PM | - | - | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | - |
-
+| 8:00 AM  |    -    |    -    |    -    |    -    |    -    | - |    -    |
+| 9:00 AM  |    -    |    -    |    -    |    -    |    -    | - |    -    |
+| 10:00 AM |    -    |    -    |    -    |    -    |    -    | - |    -    |
+| 11:00 AM |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 12:00 PM |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 1:00 PM  |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 2:00 PM  |    -    |    -    | C,R,Q,A |    -    | C,R,Q,A | - | C,R,Q,A |
+| 3:00 PM  |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 4:00 PM  |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 5:00 PM  |    -    |    -    |    -    |    -    |    -    | - | C,R,Q,A |
+| 6:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
+| 7:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
+| 8:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
+| 9:00 PM  | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | C,R,Q,A | - | C,R,Q,A |
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
@@ -95,7 +94,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Meeting recorder (Aaron Kiem) | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader (Caleb Yuen) | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor (Roshan Roy Geoffrey Joe) | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
@@ -108,3 +107,4 @@ To begin, we are all adults and capable of resolving the conflict within ourselv
 
 Caleb Yuen
 Roshan Roy Geoffrey Joe
+Aaron Kiem
