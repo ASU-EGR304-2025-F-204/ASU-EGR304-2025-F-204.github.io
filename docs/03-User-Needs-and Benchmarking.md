@@ -70,3 +70,22 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 - **Power** — *Remain reliably powered through simple conventions (long battery life, easy replacement).*  
 - **User Interaction** — *Require little to no setup while providing flexible automation (scheduling, app integration).*  
 - **Quality** — *Deliver consistent performance and durable build with no defects.*
+
+
+### 3) Robot Vacuum & Mop — Amazon
+**Search keywords:** `robot vacuum smart home`  
+**Search link:** [Amazon - Robot Vacuum and Mop](https://www.amazon.com/Mapping-Robotic-Navigation-Obstacle-Avoidance/dp/B0FGXQPQ8G)
+
+**Voice of the Customer → User Needs**
+
+| Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+|---|---|---|---|
+| “It’s especially great for picking up pet hair from both carpets and hard floors.” | The product removes dirt, dust, and pet hair effectively across multiple floor types. | Explicit | Cleaning Performance |
+| “The navigation system ensures it doesn’t bump into furniture or get stuck.” | The product avoids obstacles and provides reliable navigation. | Explicit | Reliability |
+| “I love that it can clean my home quietly at night.” | The product operates at a quiet noise level suitable for daily routines. | Explicit | Comfort |
+| “Battery drains too quickly if run on high suction.” | The product should have long-lasting battery life even under heavy use. | Explicit | Power |
+| “Gets tangled in cords or rugs sometimes.” | The product avoids getting stuck and recovers smoothly from obstacles. | Latent | Reliability |
+| “Sometimes misses corners or under furniture.” | The product cleans hard-to-reach areas like corners and under furniture. | Explicit | Coverage |
+
+**Category / Meta-Need:**  
+- **Automation & Cleaning** — *Automates floor cleaning with strong suction, reliable navigation, and smart integration for minimal user effort.*
