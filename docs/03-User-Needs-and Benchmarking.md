@@ -87,7 +87,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 ### 4) Ring Battery Doorbell Plus Smart Wifi Doorbell - Best Buy
 **Search keywords:** `camera door doorbell smart household wifi`  
-**Search link** [Best Buy - Ring Wifi Doorbell](https://www.bestbuy.com/product/ring-battery-doorbell-plus-smart-wifi-video-doorbell-battery-operated-with-head-to-toe-view-satin-nickel/J39HW6P9S2/sku/6531758?extStoreId=1189)
+**Search link:** [Best Buy - Ring Wifi Doorbell](https://www.bestbuy.com/product/ring-battery-doorbell-plus-smart-wifi-video-doorbell-battery-operated-with-head-to-toe-view-satin-nickel/J39HW6P9S2/sku/6531758?extStoreId=1189)
 
 **Voice of the Customer → User Needs**
 
@@ -103,17 +103,32 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 | “First charge took a while; having a spare quick-release battery is very handy.” | Faster charging or an easy spare-battery workflow reduces downtime. | Latent | Power Convenience |
 | “Not compatible with my older doorbell bracket.” | The product should maintain or clearly communicate mount compatibility or include adapters. | Explicit | Compatibility |
 
-**Category / Meta-Need:**  
-- **Home Monitoring and Security** — *See and communicate with visitors clearly, receive dependable alerts, capture package deliveries.*
-- **Ease of Use and Power** — *Simple setup with strong battery performance in real world conditions*
+**Category / Meta-Needs:**  
+- **Home Monitoring and Security** — *See/communicate with visitors, receive dependable alerts, capture package deliveries.*
+- **Ease of Use and Power** — *Simple setup with strong battery performance in real world conditions.*
 
 
 
-### 5)
+### 5) Programmable HVAC Monitoring Thermostat - Walmart
+**Search keywords:** `hvac thermostat smart household programmable`  
+**Search link:** [Google Nest Thermostat](https://www.walmart.com/ip/Google-Nest-Thermostat-Programmable-Smart-Thermostat-for-Home-Snow/415911305?wmlspartner=wlpa&selectedSellerId=102477550)
 
+**Voice of the Customer → User Needs**
 
+| Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+|---|---|---|---|
+| “It actually helped lower my bill—Eco Temps kick in when I leave.” | The product reduces energy costs with presence-based Eco temperatures and energy-saving features. | Explicit | Energy Savings |
+| “I can set and tweak schedules right in the Google Home app from anywhere.”  | The product allows remote control and easy scheduling via the Google Home app (Quick Schedule). | Explicit | Ease of Use |
+| “I just say the word to change the temp—works with Google Assistant/Alexa.” | The product supports reliable voice control across major smart-home assistants. | Explicit | Smart Home Integration |
+| “It alerts me if something seems off with my HVAC and reminds me to change filters.” | The product provides HVAC monitoring and maintenance reminders to prevent issues. | Explicit | Reliability & Maintenance |
+| “Install was straightforward, and the app checked my system for compatibility.” | The product offers simple, guided setup and a compatibility check to avoid surprises. | Explicit | Onboarding |
+| “Looks clean and modern; the display is easy to read.” | The product has a minimal, readable display and aesthetic design that blends into the home. | Explicit | Aesthetics |
+| “Runs fine on my system, but some setups really need a C-wire to avoid battery problems.” | The product should work across systems and clearly guide when a C-wire is required to ensure stable power. | Latent | Compatibility & Power |
+| “ENERGY STAR certified—nice to know it’s efficient.” | The product meets ENERGY STAR efficiency standards. | Explicit | Energy Efficiency |
+| “After hearing support news on older models, I want clear long-term software support.” | The product should provide transparent, durable software support and feature longevity. | Latent | Longevity & Support |
 
-
+**Category / Meta-Needs:**  
+- **Home Climate Control and Energy Management** — *Maintain satisfactory temperatures while cutting waste with easy app usage, system monitoring, and compatibility.*
 
 
 
