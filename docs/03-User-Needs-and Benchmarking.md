@@ -16,20 +16,13 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 ## Benchmarking Method (VOC)
 -
--
--
--
--
--
 
 
 ## Benchmarked Products (overview)
--
--
--
--
--
--
+- [Clap Light](https://www.amazon.com/Control-Bedroom-Activated-Solution-Detection/dp/B0CVVBYG4R/)
+- [Smart Blinds](https://www.amazon.com/MANSNIX-Motorized-Blackout-Automatic-Compatible/dp/B0B5X1DHWZ/)
+- [Robot Vacuum & Mop](https://www.amazon.com/Mapping-Robotic-Navigation-Obstacle-Avoidance/dp/B0FGXQPQ8G)
+
 
 ## Product Analyses
 
@@ -116,11 +109,11 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 
 ## Prioritized Top Needs
-1.
-2.
-3.
-4.
-5.
+1.   
+2.   
+3.   
+4.  
+5. 
 
-**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
+>**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
 
