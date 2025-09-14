@@ -5,12 +5,12 @@ tags:
 - user-needs
 ---
 
-# Introduction
+## Introduction
 
 This page documents how our team identified and prioritized user needs for a **smart home system** by benchmarking existing products and analyzing voice-of-the-customer (VOC) reviews. We summarize our method, product set, extracted needs, meta-needs, and the final prioritized list that will guide our requirements.
 
 
-# Product Mission Statement
+## Product Mission Statement
 Our mission is to design and deliver a reliable smart home system that enhances daily living by improving **comfort, security, and energy efficiency**. We will analyze existing smart home products, incorporate user feedback, and leverage our team’s strengths to build an **accessible, maintainable, and user-friendly** solution that meets real-world needs.
 
 
