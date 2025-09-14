@@ -5,7 +5,7 @@ tags:
 - user-needs
 ---
 
-## Introduction
+# Introduction
 
 This page documents how our team identified and prioritized user needs for a **smart home system** by benchmarking existing products and analyzing voice-of-the-customer (VOC) reviews. We summarize our method, product set, extracted needs, meta-needs, and the final prioritized list that will guide our requirements.
 
