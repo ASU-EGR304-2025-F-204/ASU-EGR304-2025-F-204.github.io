@@ -1,90 +1,52 @@
 ---
 title: User Needs and Benchmarking
 tags:
-- tag1
-- tag2
+- smart-home
+- user-needs
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Introduction
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This page documents how our team identified and prioritized user needs for a **smart home system** by benchmarking existing products and analyzing voice-of-the-customer (VOC) reviews. We summarize our method, product set, extracted needs, meta-needs, and the final prioritized list that will guide our requirements.
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
 
-## Esse quoque sedem plena nunc iecur
+# Product Mission Statement
+Our mission is to design and deliver a reliable smart home system that enhances daily living by improving **comfort, security, and energy efficiency**. We will analyze existing smart home products, incorporate user feedback, and leverage our team’s strengths to build an **accessible, maintainable, and user-friendly** solution that meets real-world needs.
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
 
-1. listum primo
+## Benchmarking Method (VOC)
+-
+-
+-
+-
+-
+-
 
-    discusso el codex:
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+## Benchmarked Products (overview)
+-
+-
+-
+-
+-
+-
 
-2. listum secundum
+## Product Analyses
 
-    > warningum alertum
+### 1)Clap Light — Amazon
+**Search keywords:** `clap light smart lamp sound activated`  
+**Search link:** [Amazon - Clap Light](https://www.amazon.com/Control-Bedroom-Activated-Solution-Detection/dp/B0CVVBYG4R/ref=sr_1_6?crid=3U1FMD7JVC7DW&dib=eyJ2IjoiMSJ9._tiqYg3j_PzFXnsdOnInFSkSRUS4rIO4ReeaU83PIvaCrzgJVULjJPAvigGHsL-XTR9qmRnjhaBsgdAl1ooTs8RQjZk_rSXzgWxmFJTAe9U3SmzcgOGVhxS0H7UfxAYzOM-j4xaYqC7cjOhI6xYYVZnXAf3kt31BZWAIl7r7s5Jmuio2JrmClKYbuv7WOXebE0Um1cxHQ2xX7z87t03HqwHpt6J0pFR0S1Sp99vNW7RkxunCeSY4Kmgwm2LzGB2gn2AOu7rqp7WSu_jbnMtImyWN_tBk_vu3joxxH7TjInU.CPaKihUm8y6R5_3XGf91pkNGACZSkA0U7NQJxZj5PYg&dib_tag=se&keywords=clap+light&qid=1757792515&sprefix=clap+light%2Caps%2C241&sr=8-6)
 
-3. listum adnauseum
+**Voice of the Customer → User Needs**
 
-## Pondus ante Ialysios vultu exasperat loqui sanguine
+| Statements (summarized quotes) | User Need Statement | Explicit/Latent |
+|---|---|---|
+| “I love how it turns off when I clap—I don’t have to get up.” | The product reliably responds to hand claps to control the light. | Explicit |
+| “Works well but also reacts to speaking or other sounds.” | The product distinguishes hand claps from other noises. | Explicit |
+| “It turned on during phone calls / when people spoke.” | The product avoids false triggers from voices/background noise. | Explicit |
+| “Goes on and off when I’m just talking or laughing.” | The product maintains accuracy by not confusing claps with speech/laughter. | Explicit |
+| “Does not respond consistently to claps.” | The product responds consistently to clapping gestures. | Explicit |
+| “Almost every noise sets it off—really annoying.” | The product filters irrelevant noise to minimize unwanted activations. | Explicit |
 
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
-
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
-
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+**Category / Meta-Need:**  
+- **User Interaction** — *Recognize intended clap actions while ignoring background sounds.*
