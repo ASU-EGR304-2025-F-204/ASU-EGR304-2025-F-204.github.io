@@ -89,3 +89,38 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 **Category / Meta-Need:**  
 - **Automation & Cleaning** — *Automates floor cleaning with strong suction, reliable navigation, and smart integration for minimal user effort.*
+
+
+
+### 4)
+
+
+
+
+
+
+
+### 5)
+
+
+
+
+
+
+
+## Consolidated Need Categories & Meta-Needs
+
+
+> **Screenshots:** Insert three images showing (1) all needs collected, (2) grouped by category, (3) ranked.
+
+
+
+## Prioritized Top Needs
+1.
+2.
+3.
+4.
+5.
+
+**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
+
