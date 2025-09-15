@@ -94,6 +94,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 **Voice of the Customer → User Needs**
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+|---|---|---|---|
 | “Eco Temps kick in when I’m away and my bill dropped.” | 1) Automatically reduce energy use when home is unoccupied; 2) Make Eco settings easy to enable and trust. | Explicit (positive) | Energy Savings |
 | “I can change the temp and edit schedules in the Google Home app from anywhere.” | 1) Reliable remote control; 2) Fast, tweakable scheduling in one place. | Explicit (positive) | Ease of Use |
 | “Voice control works—‘Hey Google, set it to 72.’” | 1) Hands-free temperature changes via voice; 2) Consistent assistant responses without lag. | Explicit (positive) | Smart-Home Integration |
@@ -119,16 +120,16 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 **Voice of the Customer → User Needs**
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
-|---|---|---|---|
-| “It actually helped lower my bill—Eco Temps kick in when I leave.” | The product reduces energy costs with presence-based Eco temperatures and energy-saving features. | Explicit | Energy Savings |
-| “I can set and tweak schedules right in the Google Home app from anywhere.”  | The product allows remote control and easy scheduling via the Google Home app (Quick Schedule). | Explicit | Ease of Use |
-| “I just say the word to change the temp—works with Google Assistant/Alexa.” | The product supports reliable voice control across major smart-home assistants. | Explicit | Smart Home Integration |
-| “It alerts me if something seems off with my HVAC and reminds me to change filters.” | The product provides HVAC monitoring and maintenance reminders to prevent issues. | Explicit | Reliability & Maintenance |
-| “Install was straightforward, and the app checked my system for compatibility.” | The product offers simple, guided setup and a compatibility check to avoid surprises. | Explicit | Onboarding |
-| “Looks clean and modern; the display is easy to read.” | The product has a minimal, readable display and aesthetic design that blends into the home. | Explicit | Aesthetics |
-| “Runs fine on my system, but some setups really need a C-wire to avoid battery problems.” | The product should work across systems and clearly guide when a C-wire is required to ensure stable power. | Latent | Compatibility & Power |
-| “ENERGY STAR certified—nice to know it’s efficient.” | The product meets ENERGY STAR efficiency standards. | Explicit | Energy Efficiency |
-| “After hearing support news on older models, I want clear long-term software support.” | The product should provide transparent, durable software support and feature longevity. | Latent | Longevity & Support |
+| “Eco Temps kick in when I’m away and my bill dropped.” | 1) Automatically reduce energy use when home is unoccupied; 2) Make Eco settings easy to enable and trust. | Explicit (positive) | Energy Savings |
+| “I can change the temp and edit schedules in the Google Home app from anywhere.” | 1) Reliable remote control; 2) Fast, tweakable scheduling in one place. | Explicit (positive) | Ease of Use |
+| “Voice control works—‘Hey Google, set it to 72.’” | 1) Hands-free temperature changes via voice; 2) Consistent assistant responses without lag. | Explicit (positive) | Smart-Home Integration |
+| “It warned me when something looked off with my HVAC and reminded me about filters.” | 1) Proactive system monitoring with timely alerts; 2) Adjustable maintenance reminders. | Explicit (positive) | Reliability & Maintenance |
+| “Looks clean; the Snow finish blends in and the display is easy to read.” | 1) Minimal, modern design that fits decor; 2) Readable screen from typical viewing distance. | Explicit (positive) | Aesthetics |
+| “ENERGY STAR certified—nice to know it’s efficient.” | 1) Verified efficiency to reduce waste; 2) Clear guidance on energy programs/rebates where available. | Explicit (positive) | Energy Efficiency |
+| “My setup needed a C-wire/Power Connector—battery kept dipping without it.” | 1) Clear guidance on when extra power is required; 2) Stable power across diverse HVAC systems. | Explicit (negative) | Compatibility & Power |
+| “Not compatible with high-voltage (line-voltage) systems in older homes.” | 1) Transparent compatibility limits up front; 2) Suggested alternatives or adapters when unsupported. | Explicit (negative) | System Compatibility |
+| “You need a Google account and working Wi-Fi for the smart stuff.” | 1) Transparent prerequisites (account/Wi-Fi) before purchase; 2) Reliable connectivity once set up. | Explicit (negative) | Onboarding & Connectivity |
+| “It uses AAA batteries, so I’ll have to replace them occasionally.” | 1) Reasonable battery life with clear low-battery alerts; 2) Simple, tool-free battery replacement. | Explicit (negative) | Power Convenience |
 
 **Category / Meta-Needs:**  
 - **Home Climate Control and Energy Management** — *Maintain satisfactory temperatures while cutting waste with easy app usage, system monitoring, and compatibility.*
