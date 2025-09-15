@@ -23,7 +23,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 - [Smart Blinds](https://www.amazon.com/MANSNIX-Motorized-Blackout-Automatic-Compatible/dp/B0B5X1DHWZ/)
 - [Robot Vacuum & Mop](https://www.amazon.com/Mapping-Robotic-Navigation-Obstacle-Avoidance/dp/B0FGXQPQ8G)
 - [Wifi Doorbell](https://www.bestbuy.com/product/ring-battery-doorbell-plus-smart-wifi-video-doorbell-battery-operated-with-head-to-toe-view-satin-nickel/J39HW6P9S2/sku/6531758?extStoreId=1189)
-- [Google Nest Thermostat](https://www.walmart.com/ip/Google-Nest-Thermostat-Programmable-Smart-Thermostat-for-Home-Snow/415911305?wmlspartner=wlpa&selectedSellerId=102477550)
+- [Smart Thermostat](https://www.walmart.com/ip/Google-Nest-Thermostat-Programmable-Smart-Thermostat-for-Home-Snow/415911305?wmlspartner=wlpa&selectedSellerId=102477550)
 
 
 ## Product Analyses
