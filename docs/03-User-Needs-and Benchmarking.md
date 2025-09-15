@@ -94,16 +94,17 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 **Voice of the Customer → User Needs**
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
-|---|---|---|---|
-| “Crystal-clear video, and the ‘head-to-toe’ view shows faces and packages; night vision works great.” | The product delivers high-quality HD+ (1536p) video with a tall field of view and clear night vision. | Explicit | Video Quality & Coverage |
-| “Motion alerts are customizable and super responsive; ‘person detected’ notifications helped me intervene.” | The product provides reliable, customizable motion detection that promptly alerts the user. | Explicit | Reliability |
-| “Two-way audio is crisp—people can hear me even from a distance.” | The product enables clear two-way communication with visitors. | Explicit | Communication |
-| “Battery lasts weeks; for us it goes about a month between charges depending on foot traffic.”  | The product should offer long battery life under real-world usage. | Explicit | Power |
-| “Installation was easy; the app is intuitive; I even hooked it to my existing doorbell wires/chime.” | The product must be simple to install and easy to control via an app. | Explicit | Ease of Use |
-| “Works with Alexa—view on Echo Show and get announcements.” | The product should integrate smoothly with the Alexa ecosystem for viewing and voice prompts. | Explicit | Smart Home Integration |
-| “After the 30-day trial you need a paid plan to keep using cloud recordings; package alerts are part of the subscription.” | The product should be transparent about ongoing costs; essential features (recording/package alerts) often require a subscription. | Explicit | Ownership Cost Transparency |
-| “First charge took a while; having a spare quick-release battery is very handy.” | Faster charging or an easy spare-battery workflow reduces downtime. | Latent | Power Convenience |
-| “Not compatible with my older doorbell bracket.” | The product should maintain or clearly communicate mount compatibility or include adapters. | Explicit | Compatibility |
+| “Eco Temps kick in when I’m away and my bill dropped.” | 1) Automatically reduce energy use when home is unoccupied; 2) Make Eco settings easy to enable and trust. | Explicit (positive) | Energy Savings |
+| “I can change the temp and edit schedules in the Google Home app from anywhere.” | 1) Reliable remote control; 2) Fast, tweakable scheduling in one place. | Explicit (positive) | Ease of Use |
+| “Voice control works—‘Hey Google, set it to 72.’” | 1) Hands-free temperature changes via voice; 2) Consistent assistant responses without lag. | Explicit (positive) | Smart-Home Integration |
+| “It warned me when something looked off with my HVAC and reminded me about filters.” | 1) Proactive system monitoring with timely alerts; 2) Adjustable maintenance reminders. | Explicit (positive) | Reliability & Maintenance |
+| “Looks clean; the Snow finish blends in and the display is easy to read.” | 1) Minimal, modern design that fits decor; 2) Readable screen from typical viewing distance. | Explicit (positive) | Aesthetics |
+| “ENERGY STAR certified—nice to know it’s efficient.” | 1) Verified efficiency to reduce waste; 2) Clear guidance on energy programs/rebates where available. | Explicit (positive) | Energy Efficiency |
+| “My setup needed a C-wire/Power Connector—battery kept dipping without it.” | 1) Clear guidance on when extra power is required; 2) Stable power across diverse HVAC systems. | Explicit (negative) | Compatibility & Power |
+| “Not compatible with high-voltage (line-voltage) systems in older homes.” | 1) Transparent compatibility limits up front; 2) Suggested alternatives or adapters when unsupported. | Explicit (negative) | System Compatibility |
+| “You need a Google account and working Wi-Fi for the smart stuff.” | 1) Transparent prerequisites (account/Wi-Fi) before purchase; 2) Reliable connectivity once set up. | Explicit (negative) | Onboarding & Connectivity |
+| “It uses AAA batteries, so I’ll have to replace them occasionally.” | 1) Reasonable battery life with clear low-battery alerts; 2) Simple, tool-free battery replacement. | Explicit (negative) | Power Convenience |
+
 
 **Category / Meta-Needs:**  
 - **Home Monitoring and Security** — *See/communicate with visitors, receive dependable alerts, capture package deliveries.*
