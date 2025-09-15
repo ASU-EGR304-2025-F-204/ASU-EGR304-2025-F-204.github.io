@@ -54,12 +54,12 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent |
 |---|---|---|
-| “Very easy to install and works flawlessly. Easy to program down motion if needed.” | The product should allow **simple, user-friendly installation and programming**. | Latent |
-| “Love the blind. Works well. It is too long for most windows… I control it for the evening while I set up a timer for the morning.” | The product should **adapt to different window sizes** and **allow scheduled automation**. | Latent |
-| “Easy install. No drill required unless you want to secure it more. Quiet motorized shade… Comes with extra spacers for adjusting.” | The product should be **quiet, adjustable, and powered conveniently**. | Latent |
-| “Like the product but 2 of my 3 shades have pin holes… noticeable on blackout shades.” | The product should maintain **consistent build quality with no light leakage**. | Latent |
-| “Bought these because Alexa said they could open/close on a schedule… not the case. No option in the app.” | The product should **support scheduling directly through the app without extra hardware**. | Latent |
-| “Comes with regular battery drain issue. Motor sound bit loud then other times.” | The product should have **long-lasting battery life** and **consistent, quiet operation**. | Latent |
+| “Very easy to install and works flawlessly. Easy to program down motion if needed.” | The product should allow simple, user-friendly installation and programming. | Latent |
+| “Love the blind. Works well. It is too long for most windows… I control it for the evening while I set up a timer for the morning.” | The product should adapt to different window sizes and allow scheduled automation. | Latent |
+| “Easy install. No drill required unless you want to secure it more. Quiet motorized shade… Comes with extra spacers for adjusting.” | The product should be quiet, adjustable, and powered conveniently. | Latent |
+| “Like the product but 2 of my 3 shades have pin holes… noticeable on blackout shades.” | The product should maintain consistent build quality with no light leakage. | Latent |
+| “Bought these because Alexa said they could open/close on a schedule… not the case. No option in the app.” | The product should support scheduling directly through the app without extra hardware. | Latent |
+| “Comes with regular battery drain issue. Motor sound bit loud then other times.” | The product should have long-lasting battery life and **consistent, quiet operation. | Latent |
 
 **Category / Meta-Needs:**  
 - **Power** — *Remain reliably powered through simple conventions (long battery life, easy replacement).*  
@@ -149,4 +149,5 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 5. 
 
 >**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
+
 
