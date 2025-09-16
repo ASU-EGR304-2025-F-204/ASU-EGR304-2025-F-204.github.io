@@ -34,14 +34,14 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 **Voice of the Customer → User Needs**
 
-| Statements (summarized quotes) | User Need Statement | Explicit/Latent |
-|---|---|---|
-| “I love how it turns off when I clap—I don’t have to get up.” | The product reliably responds to hand claps to control the light. | Explicit |
-| “Works well but also reacts to speaking or other sounds.” | The product distinguishes hand claps from other noises. | Explicit |
-| “It turned on during phone calls / when people spoke.” | The product avoids false triggers from voices/background noise. | Explicit |
-| “Goes on and off when I’m just talking or laughing.” | The product maintains accuracy by not confusing claps with speech/laughter. | Explicit |
-| “Does not respond consistently to claps.” | The product responds consistently to clapping gestures. | Explicit |
-| “Almost every noise sets it off—really annoying.” | The product filters irrelevant noise to minimize unwanted activations. | Explicit |
+| Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+|---|---|---|---|
+| “I love how it turns off when I clap—I don’t have to get up.” | The product reliably responds to hand claps to control the light. | Explicit |Simplistic|
+| “Works well but also reacts to speaking or other sounds.” | The product distinguishes hand claps from other noises. | Explicit | Audio Distinction |
+| “It turned on during phone calls / when people spoke.” | The product avoids false triggers from voices/background noise. | Explicit | Audio Distinction |
+| “Goes on and off when I’m just talking or laughing.” | The product maintains accuracy by not confusing claps with speech/laughter. | Explicit | Audio Distinction |
+| “Does not respond consistently to claps.” | The product responds consistently to clapping gestures. | Explicit | reliability |
+| “Almost every noise sets it off—really annoying.” | The product filters irrelevant noise to minimize unwanted activations. | Explicit | Reliability |
 
 **Category / Meta-Need:**  
 - **User Interaction** — *Recognize intended clap actions while ignoring background sounds.*
