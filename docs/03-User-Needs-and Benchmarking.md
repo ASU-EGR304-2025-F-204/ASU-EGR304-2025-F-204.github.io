@@ -95,16 +95,16 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
 |---|---|---|---|
-| “Eco Temps kick in when I’m away and my bill dropped.” | 1) Automatically reduce energy use when home is unoccupied; 2) Make Eco settings easy to enable and trust. | Explicit (positive) | Energy Savings |
-| “I can change the temp and edit schedules in the Google Home app from anywhere.” | 1) Reliable remote control; 2) Fast, tweakable scheduling in one place. | Explicit (positive) | Ease of Use |
-| “Voice control works—‘Hey Google, set it to 72.’” | 1) Hands-free temperature changes via voice; 2) Consistent assistant responses without lag. | Explicit (positive) | Smart-Home Integration |
-| “It warned me when something looked off with my HVAC and reminded me about filters.” | 1) Proactive system monitoring with timely alerts; 2) Adjustable maintenance reminders. | Explicit (positive) | Reliability & Maintenance |
-| “Looks clean; the Snow finish blends in and the display is easy to read.” | 1) Minimal, modern design that fits decor; 2) Readable screen from typical viewing distance. | Explicit (positive) | Aesthetics |
-| “ENERGY STAR certified—nice to know it’s efficient.” | 1) Verified efficiency to reduce waste; 2) Clear guidance on energy programs/rebates where available. | Explicit (positive) | Energy Efficiency |
-| “My setup needed a C-wire/Power Connector—battery kept dipping without it.” | 1) Clear guidance on when extra power is required; 2) Stable power across diverse HVAC systems. | Explicit (negative) | Compatibility & Power |
-| “Not compatible with high-voltage (line-voltage) systems in older homes.” | 1) Transparent compatibility limits up front; 2) Suggested alternatives or adapters when unsupported. | Explicit (negative) | System Compatibility |
-| “You need a Google account and working Wi-Fi for the smart stuff.” | 1) Transparent prerequisites (account/Wi-Fi) before purchase; 2) Reliable connectivity once set up. | Explicit (negative) | Onboarding & Connectivity |
-| “It uses AAA batteries, so I’ll have to replace them occasionally.” | 1) Reasonable battery life with clear low-battery alerts; 2) Simple, tool-free battery replacement. | Explicit (negative) | Power Convenience |
+| “HD+ ‘head-to-toe’ video makes it easy to see faces and packages.” | 1) Deliver crisp 1536p video; 2) Provide a tall field of view for full-body/package visibility. | Explicit (positive) | Video Quality & Coverage |
+| “Color night vision and Live View let me clearly check my porch after dark.” | 1) Maintain clear nighttime visibility; 2) Enable real-time viewing on demand. | Explicit (positive) | Night Monitoring |
+| “Two-way talk and Quick Replies help me handle visitors when I’m busy.” | 1) Support clear, reliable two-way audio; 2) Offer quick auto-responses to save time. | Explicit (positive) | Communication |
+| “Works with Alexa—I get door announcements and can view on Echo Show.” | 1) Integrate smoothly with Alexa devices; 2) Provide audible/visual door announcements indoors. | Explicit (positive) | Smart-Home Integration |
+| “Battery-powered with a quick-release pack; you can also hardwire if you have a transformer.” | 1) Offer flexible power options; 2) Make battery swaps/charging simple to minimize hassle. | Explicit (positive) | Power Flexibility |
+| “You need a subscription to save/review recordings and for Package Alerts after the trial.” | 1) Be transparent about ongoing costs; 2) Preserve basic functionality without a plan. | Explicit (negative) | Ownership Cost Transparency |
+| “Only connects to 2.4 GHz Wi-Fi and needs decent upload speed.” | 1) Clearly state Wi-Fi band and speed requirements; 2) Maintain a stable connection at those specs. | Explicit (negative) | Connectivity |
+| “If the battery runs down, the doorbell’s offline until I recharge or swap a spare.” | 1) Minimize downtime during charging; 2) Support easy spare-battery swapping. | Latent (negative) | Uptime & Convenience |
+| “For in-home chime sounds, use an existing wired chime or add a Ring Chime.” | 1) Provide clear chime compatibility options; 2) Ensure audible alerts around the home. | Explicit (neutral) | Accessory Compatibility |
+| “Not compatible with 5 GHz Wi-Fi.” | 1) Make compatibility limits clear up front; 2) Offer setup guidance for 2.4 GHz networks. | Explicit (negative) | System Compatibility |
 
 
 **Category / Meta-Needs:**  
@@ -120,6 +120,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 **Voice of the Customer → User Needs**
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+|---|---|---|---|
 | “Eco Temps kick in when I’m away and my bill dropped.” | 1) Automatically reduce energy use when home is unoccupied; 2) Make Eco settings easy to enable and trust. | Explicit (positive) | Energy Savings |
 | “I can change the temp and edit schedules in the Google Home app from anywhere.” | 1) Reliable remote control; 2) Fast, tweakable scheduling in one place. | Explicit (positive) | Ease of Use |
 | “Voice control works—‘Hey Google, set it to 72.’” | 1) Hands-free temperature changes via voice; 2) Consistent assistant responses without lag. | Explicit (positive) | Smart-Home Integration |
@@ -130,6 +131,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 | “Not compatible with high-voltage (line-voltage) systems in older homes.” | 1) Transparent compatibility limits up front; 2) Suggested alternatives or adapters when unsupported. | Explicit (negative) | System Compatibility |
 | “You need a Google account and working Wi-Fi for the smart stuff.” | 1) Transparent prerequisites (account/Wi-Fi) before purchase; 2) Reliable connectivity once set up. | Explicit (negative) | Onboarding & Connectivity |
 | “It uses AAA batteries, so I’ll have to replace them occasionally.” | 1) Reasonable battery life with clear low-battery alerts; 2) Simple, tool-free battery replacement. | Explicit (negative) | Power Convenience |
+
 
 **Category / Meta-Needs:**  
 - **Home Climate Control and Energy Management** — *Maintain satisfactory temperatures while cutting waste with easy app usage, system monitoring, and compatibility.*
