@@ -61,9 +61,13 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 | “Very easy to install and works flawlessly. Easy to program down motion if needed.” | The product should allow simple, user-friendly installation and programming. | Latent | Setup & Configuration |
 | “Love the blind. Works well. It is too long for most windows… I control it for the evening while I set up a timer for the morning.” | The product should adapt to different window sizes and allow scheduled automation. | Latent | User interaction |
 | “Easy install. No drill required unless you want to secure it more. Quiet motorized shade… Comes with extra spacers for adjusting.” | The product should be quiet, adjustable, and powered conveniently. | Latent | Setup & Configuration |
+|"I like them because you can make a lot of adjustments individually and separate them on different channels so you could open blinds in one area of the house while closing blinds in another area of the house etc. You can also alter the length that they come down if you have a shorter window or door that you have the blinds affixed to." | The product is highly configurable and easy to use | Explicit | Smart Home Integration |
+| "these work good. get the master controller if you get more than one." | The product works well when setup with multiple products. | Explicit | Convenient |
 | “Like the product but 2 of my 3 shades have pin holes… noticeable on blackout shades.” | The product should maintain consistent build quality with no light leakage. | Latent | Performmance |
 | “Bought these because Alexa said they could open/close on a schedule… not the case. No option in the app.” | The product should support scheduling directly through the app without extra hardware. | Latent | Compatability |
 | “Comes with regular battery drain issue. Motor sound bit loud then other times.” | The product should have long-lasting battery life and **consistent, quiet operation. | Latent | Maintainence |
+|"Difficult to control unless using remote control. I purchased three shades and didn't want to have to take out all three controllers each time I wanted to adjust my shades. I contacted the manufacturer but the customer support was useless"| The product is simple utalize and configure. | Latent | Convenient |
+|"I measured my window 29inches. What I received doesn’t even start to fit it. Even the extension blocks didn’t help."| The product can adjust size for convenience. | Latent | Smart Home Integration |
 
 **Category / Meta-Needs:**  
 - **Power** — *Remain reliably powered through simple conventions (long battery life, easy replacement).*  
