@@ -36,10 +36,14 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
 |---|---|---|---|
+| "Noise sensitivity may need adjustments" "| The product settings can be adjusted. | Explicit | User interaction |
+|"It was super easy to install. It comes with directions but you really don't need to read them. Just screw it in and start clapping. It brought some applause to our house."| The product is easy to setup | Explicit | Setup & Integration |
 | “I love how it turns off when I clap—I don’t have to get up.” | The product reliably responds to hand claps to control the light. | Explicit |Simplistic|
 | “Works well but also reacts to speaking or other sounds.” | The product distinguishes hand claps from other noises. | Explicit | Audio Distinction |
 | “It turned on during phone calls / when people spoke.” | The product avoids false triggers from voices/background noise. | Explicit | Audio Distinction |
 | “Goes on and off when I’m just talking or laughing.” | The product maintains accuracy by not confusing claps with speech/laughter. | Explicit | Audio Distinction |
+|"Unfortunately arrived broken, unable to use at all."| The product is durable and packaged securely. | Latent | Convenience |
+|"I,have worked and worked with this bulb to get it to work and it still won’t do as advertised"| The product requires little to no knowledge to setup. | latent | Setup & Configuration |
 | “Does not respond consistently to claps.” | The product responds consistently to clapping gestures. | Explicit | Reliability |
 | “Almost every noise sets it off—really annoying.” | The product filters irrelevant noise to minimize unwanted activations. | Explicit | Reliability |
 
@@ -54,9 +58,9 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 | Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
 |---|---|---|---|
-| “Very easy to install and works flawlessly. Easy to program down motion if needed.” | The product should allow simple, user-friendly installation and programming. | Latent | Setup & Integration |
+| “Very easy to install and works flawlessly. Easy to program down motion if needed.” | The product should allow simple, user-friendly installation and programming. | Latent | Setup & Configuration |
 | “Love the blind. Works well. It is too long for most windows… I control it for the evening while I set up a timer for the morning.” | The product should adapt to different window sizes and allow scheduled automation. | Latent | User interaction |
-| “Easy install. No drill required unless you want to secure it more. Quiet motorized shade… Comes with extra spacers for adjusting.” | The product should be quiet, adjustable, and powered conveniently. | Latent | Setup & Integration |
+| “Easy install. No drill required unless you want to secure it more. Quiet motorized shade… Comes with extra spacers for adjusting.” | The product should be quiet, adjustable, and powered conveniently. | Latent | Setup & Configuration |
 | “Like the product but 2 of my 3 shades have pin holes… noticeable on blackout shades.” | The product should maintain consistent build quality with no light leakage. | Latent | Performmance |
 | “Bought these because Alexa said they could open/close on a schedule… not the case. No option in the app.” | The product should support scheduling directly through the app without extra hardware. | Latent | Compatability |
 | “Comes with regular battery drain issue. Motor sound bit loud then other times.” | The product should have long-lasting battery life and **consistent, quiet operation. | Latent | Maintainence |
