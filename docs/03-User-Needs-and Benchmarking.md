@@ -150,11 +150,11 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 
 ## Prioritized Top Needs
-1.   
-2.   
-3.   
-4.  
-5. 
+1.   Performance
+2.   User interaction
+3.   Reliability
+4.   Convenience
+5.   Maintainence
 
 >**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
 
