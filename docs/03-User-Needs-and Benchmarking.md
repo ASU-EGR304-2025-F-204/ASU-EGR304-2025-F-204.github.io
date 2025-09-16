@@ -73,14 +73,18 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 **Voice of the Customer → User Needs**
 
-| Statements (summarized quotes) | User Need Statement | Explicit/Latent | Meta Need |
+| Statements (summarized quotes) | User Need Statements | Explicit/Latent | Meta Need |
 |---|---|---|---|
-| “It’s especially great for picking up pet hair from both carpets and hard floors.” | The product removes dirt, dust, and pet hair effectively across multiple floor types. | Explicit | Cleaning Performance |
-| “The navigation system ensures it doesn’t bump into furniture or get stuck.” | The product avoids obstacles and provides reliable navigation. | Explicit | Reliability |
-| “I love that it can clean my home quietly at night.” | The product operates at a quiet noise level suitable for daily routines. | Explicit | Comfort |
-| “Battery drains too quickly if run on high suction.” | The product should have long-lasting battery life even under heavy use. | Explicit | Power |
-| “Gets tangled in cords or rugs sometimes.” | The product avoids getting stuck and recovers smoothly from obstacles. | Latent | Reliability |
-| “Sometimes misses corners or under furniture.” | The product cleans hard-to-reach areas like corners and under furniture. | Explicit | Coverage |
+| “It’s especially great for picking up pet hair from both carpets and hard floors.” | 1) Removes pet hair effectively across multiple floor types; 2) Provides strong suction for consistent cleaning. | 1) Explicit; 2) Latent | Cleaning Performance |
+| “The navigation system ensures it doesn’t bump into furniture or get stuck.” | 1) Automatically avoids obstacles; 2) Navigates reliably without user intervention. | 1) Explicit; 2) Latent | Reliability |
+| “It picks up pet hair amazingly well on both carpets and hardwood floors.” | 1) Removes pet hair effectively across multiple surfaces; 2) Provides strong suction for consistent cleaning. | 1) Explicit; 2) Latent | Cleaning Performance |
+| “I love that I can schedule it through the app to clean after dinner every night.” | 1) Supports customizable scheduling through the app; 2) Runs automatically at preset times without user intervention. | 1) Explicit; 2) Latent | Automation |
+| “I love that it can clean my home quietly at night.” | 1) Operates at a low noise level suitable for daily routines; 2) Supports scheduled cleanings at convenient times. | 1) Explicit; 2) Latent | Comfort |
+| “Battery drains too quickly if run on high suction.” | 1) Delivers long battery life even at higher suction levels; 2) Lets users adjust suction to balance power and runtime. | 1) Explicit; 2) Latent | Power |
+| “The vacuum is louder on tile than on carpet.” | 1) Keeps noise levels consistent across surfaces; 2) Auto-adjusts suction based on floor type. | 1) Latent; 2) Latent | Comfort |
+| “Works fine but replacing filters and brushes is expensive.” | 1) Replacement parts are affordable and easy to obtain; 2) Requires minimal maintenance over time. | 1) Latent; 2) Latent | Maintenance |
+| “Gets tangled in cords or rugs sometimes.” | 1) Avoids entanglement with cords/rugs; 2) Recovers automatically when a tangle occurs. | 1) Explicit; 2) Latent | Reliability |
+| “Sometimes misses corners or under furniture.” | 1) Cleans corners effectively; 2) Reaches under low furniture. | 1) Explicit; 2) Explicit | Coverage |
 
 **Category / Meta-Need:**  
 - **Automation & Cleaning** — *Automates floor cleaning with strong suction, reliable navigation, and smart integration for minimal user effort.*
