@@ -15,7 +15,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 
 
 ## Benchmarking Method (VOC)
--
+We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. Searches included terms such as “clap light smart lamp,” “smart blinds motorized window shade,” “robot vacuum mop lidar,” “wifi doorbell smart camera,” and “programmable HVAC thermostat.” For each product, we selected those with a high volume of reviews and examined both positive (4–5★) and negative (1–2★) feedback. Common themes were extracted from the reviews and translated into user need statements. Each need was categorized as explicit (directly stated) or latent (implied by user expectations). These needs were then grouped into categories, summarized with meta-needs, and prioritized by frequency, impact, and team judgment.
 
 
 ## Benchmarked Products (overview)
