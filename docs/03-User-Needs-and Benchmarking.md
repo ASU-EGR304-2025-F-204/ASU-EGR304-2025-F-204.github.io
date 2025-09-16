@@ -145,7 +145,7 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 ## Consolidated Need Categories & Meta-Needs
 
 
-> **Screenshots:** Insert three images showing (1) all needs collected, (2) grouped by category, (3) ranked.
+> **Screenshots:** Insert three images showing (1) all needs collected <img src="./image/Screenshot 2025-09-15 210305.png">, (2) grouped by category, (3) ranked.
 
 
 
