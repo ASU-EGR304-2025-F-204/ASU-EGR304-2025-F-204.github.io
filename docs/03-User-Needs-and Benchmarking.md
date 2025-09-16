@@ -67,7 +67,7 @@ Our mission is to design and deliver a reliable smart home system that enhances 
 - **Quality** — *Deliver consistent performance and durable build with no defects.*
 
 
-### 3) ### Robot Vacuum & Mop — Amazon
+### 3) Robot Vacuum & Mop — Amazon
 **Search keywords:** `robot vacuum mop lidar smart home`  
 **Search link:** [Amazon - Robot Vacuum and Mop](https://www.amazon.com/Mapping-Robotic-Navigation-Obstacle-Avoidance/dp/B0FGXQPQ8G)
 
