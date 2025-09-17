@@ -7,15 +7,15 @@ tags:
 
 ## Introduction
 
-This page documents how our team identified and prioritized user needs for a **smart home system** by benchmarking existing products and analyzing voice-of-the-customer (VOC) reviews. We summarize our method, product set, extracted needs, meta-needs, and the final prioritized list that will guide our requirements.
+This page documents how our team identified and prioritized user needs for a smart home system by benchmarking existing products and analyzing voice-of-the-customer (VOC) reviews. We summarize our method, product set, extracted needs, meta-needs, and the final prioritized list that will guide our requirements.
 
 
 ## Product Mission Statement
-Our mission is to design and deliver a reliable smart home system that enhances daily living by improving **comfort, security, and energy efficiency**. We will analyze existing smart home products, incorporate user feedback, and leverage our team’s strengths to build an **accessible, maintainable, and user-friendly** solution that meets real-world needs.
+Our mission is to design and deliver a reliable smart home system that enhances daily living by improving comfort, security, and energy efficiency. We will analyze existing smart home products, incorporate user feedback, and leverage our team’s strengths to build an accessible, maintainable, and user-friendly solution that meets real-world needs.
 
 
 ## Benchmarking Method (VOC)
-We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. Searches included terms such as “clap light smart lamp,” “smart blinds motorized window shade,” “robot vacuum mop lidar,” “wifi doorbell smart camera,” and “programmable HVAC thermostat.” For each product, we selected those with a high volume of reviews and examined both positive (4–5★) and negative (1–2★) feedback. Common themes were extracted from the reviews and translated into user need statements. Each need was categorized as explicit (directly stated) or latent (implied by user expectations). These needs were then grouped into categories, summarized with meta-needs, and prioritized by frequency, impact, and team judgment.
+We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. Searches included terms such as “clap light smart lamp,” “smart blinds motorized window shade,” “robot vacuum mop lidar,” “wifi doorbell smart camera,” and “programmable HVAC thermostat.” For each product, we selected those with a high volume of reviews and examined both positive and negative feedback. Common themes were extracted from the reviews and translated into user need statements. Each need was categorized as explicit (directly stated) or latent (implied by user expectations). These needs were then grouped into categories, summarized with meta-needs, and prioritized by frequency, impact, and team judgment.
 
 
 ## Benchmarked Products (overview)
@@ -48,7 +48,7 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 | “Almost every noise sets it off—really annoying.” | The product filters irrelevant noise to minimize unwanted activations. | Explicit | Reliability |
 
 **Category / Meta-Need:**  
-- **User Interaction** — *Recognize intended clap actions while ignoring background sounds.*
+- **User Interaction** — Recognize intended clap actions while ignoring background sounds.
 
 ### 2) Smart Blinds — Amazon
 **Search keywords:** `smart blinds motorized window shade`  
@@ -70,9 +70,9 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 |"I measured my window 29inches. What I received doesn’t even start to fit it. Even the extension blocks didn’t help."| The product can adjust size for convenience. | Latent | Smart Home Integration |
 
 **Category / Meta-Needs:**  
-- **Power** — *Remain reliably powered through simple conventions (long battery life, easy replacement).*  
-- **User Interaction** — *Require little to no setup while providing flexible automation (scheduling, app integration).*  
-- **Quality** — *Deliver consistent performance and durable build with no defects.*
+- **Power** — Remain reliably powered through simple conventions (long battery life, easy replacement). 
+- **User Interaction** — Require little to no setup while providing flexible automation (scheduling, app integration).
+- **Quality** — Deliver consistent performance and durable build with no defects.
 
 
 ### 3) Robot Vacuum & Mop — Amazon
@@ -95,7 +95,7 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 | “Sometimes misses corners or under furniture.” | 1) Cleans corners effectively; 2) Reaches under low furniture. | 1) Explicit; 2) Explicit | Coverage |
 
 **Category / Meta-Need:**  
-- **Automation & Cleaning** — *Automates floor cleaning with strong suction, reliable navigation, and smart integration for minimal user effort.*
+- **Automation & Cleaning** — Automates floor cleaning with strong suction, reliable navigation, and smart integration for minimal user effort.
 
 
 
@@ -120,8 +120,8 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 
 **Category / Meta-Needs:**  
-- **Home Monitoring and Security** — *See/communicate with visitors, receive dependable alerts, capture package deliveries.*
-- **Ease of Use and Power** — *Simple setup with strong battery performance in real world conditions.*
+- **Home Monitoring and Security** — See/communicate with visitors, receive dependable alerts, capture package deliveries.
+- **Ease of Use and Power** — Simple setup with strong battery performance in real world conditions.
 
 
 
@@ -146,7 +146,7 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 
 **Category / Meta-Needs:**  
-- **Home Climate Control and Energy Management** — *Maintain satisfactory temperatures while cutting waste with easy app usage, system monitoring, and compatibility.*
+- **Home Climate Control and Energy Management** — Maintain satisfactory temperatures while cutting waste with easy app usage, system monitoring, and compatibility.
 
 
 
