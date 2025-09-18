@@ -8,6 +8,7 @@ tags:
 ## Project Objective
 
 Our team is designing a next generation clap-activated smart light that makes everyday living a little easier. Traditional clap lights are cheap and fun, but anyone who's used one knows the fustrations. They often turn on when you are just talking or laughing and sometimes do not respond at all when you actually want them to. We want to fix that.
+
 Our system will reliably tell the difference between a real clap and background noise so it only responds when you want it to. It will also let user custimize settings, schedule lights to turn on or off automatically, and fit seamlessly into a mondern smart home setup. The goal is to create a product that feels intuitive, dependable, and genuinely useful in daily life.
 
 ## Stakeholders
