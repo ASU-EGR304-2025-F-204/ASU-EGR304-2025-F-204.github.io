@@ -20,10 +20,15 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+**User Story #1: Jesus**
+Jesus is a senior who values simplicity and independence in his daily routine. He recently purchased a clap-activated device, and it turned out to be exactly what he needed. Now, with just a clap of his hands, he can easily turn the device on or off without having to fumble for switches.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+For Jesus, this small feature makes a big difference, especially in his senior years. It gives him a sense of control and convenience, reducing the hassle of bending over or reaching for hard-to-access buttons. He feels grateful for how straightforward and effective the device is, and he finds joy in the fact that it works seamlessly for his needs.
+
+**User Story #2: Arleta**
+Arleta is someone who values convenience and ease in her daily life. She often found herself frustrated by having to constantly get up just to turn things off. That small but repeated hassle wore her down over time.
+
+With her new clap-activated device, everything changed. Now, a simple clap of her hands allows her to control it without leaving her spot. She loves the newfound freedom and simplicity—it feels empowering to handle things effortlessly. For Arleta, this small feature means less interruption in her day and more comfort in her home.
 
 ## Aspects
 
