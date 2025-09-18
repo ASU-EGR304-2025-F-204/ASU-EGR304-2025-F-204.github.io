@@ -7,7 +7,8 @@ tags:
 
 ## Project Objective
 
-This project aims to investigate and develop smart adaptive technologies, an improved user experience, better fit, improved product design, and product customization options for the next-generation AirPods. The target is to maintain global dominance in the wireless earphone market, drive up AirPod sales to 100 million+ units sold with a 60% global market share in 2021 and expand the user base more towards the luxury, professional, and fitness segments. We believe that adding smart interactions and adaptive audio filters alone will already expand our user base by 15%. With the new generation AirPods we aim to match at least the sound quality of our main competitor, the Sony WF-1000XM3, and include Active Noise Canceling that is also featured in Mifo, House of Marley, Bose, and Amazon Echo products. We will also obtain IPX4 sweat-resistant rating equal to Bose, House of Marley, and Amazon Echo earbuds, and aim to extend our range of colors, as seen in Urbanista and Jabra’s lifestyle products.
+Our team is designing a next generation clap-activated smart light that makes everyday living a little easier. Traditional clap lights are cheap and fun, but anyone who's used one knows the fustrations. They often turn on when you are just talking or laughing and sometimes do not respond at all when you actually want them to. We want to fix that.
+Our system will reliably tell the difference between a real clap and background noise so it only responds when you want it to. It will also let user custimize settings, schedule lights to turn on or off automatically, and fit seamlessly into a mondern smart home setup. The goal is to create a product that feels intuitive, dependable, and genuinely useful in daily life.
 
 ## Stakeholders
 
