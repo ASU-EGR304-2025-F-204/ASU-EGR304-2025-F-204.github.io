@@ -22,11 +22,13 @@ Our system will reliably tell the difference between a real clap and background 
 ## Use Cases
 
 **User Story #1: Jesus**
+
 Jesus is a senior who values simplicity and independence in his daily routine. He recently purchased a clap-activated device, and it turned out to be exactly what he needed. Now, with just a clap of his hands, he can easily turn the device on or off without having to fumble for switches.
 
 For Jesus, this small feature makes a big difference, especially in his senior years. It gives him a sense of control and convenience, reducing the hassle of bending over or reaching for hard-to-access buttons. He feels grateful for how straightforward and effective the device is, and he finds joy in the fact that it works seamlessly for his needs.
 
 **User Story #2: Arleta**
+
 Arleta is someone who values convenience and ease in her daily life. She often found herself frustrated by having to constantly get up just to turn things off. That small but repeated hassle wore her down over time.
 
 With her new clap-activated device, everything changed. Now, a simple clap of her hands allows her to control it without leaving her spot. She loves the newfound freedom and simplicity—it feels empowering to handle things effortlessly. For Arleta, this small feature means less interruption in her day and more comfort in her home.
