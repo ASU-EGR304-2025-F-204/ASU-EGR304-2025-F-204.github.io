@@ -36,21 +36,39 @@ With her new clap-activated device, everything changed. Now, a simple clap of he
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+1. **Hardware / Product Design**
+      * LED
+      * PIC18F57Q43 Curiosity Nano Board
+      * Various resistors
+      * Wires
+      * Sound sensors
+      * Breadboard
+      * Curisity Nano Cable
+ 
+2. **Software / Functionality**
+      * The product will have the implementation of Nano Board Coding
+      * The product shall have one sensor to detect the user.
 
-1. **Producr Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
-  
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+3. **User Experience**
+      * The product shall be easy to setup and implement
+      * The product will require the user to clap to toggle light
 
+4. **Customization**
+      * The product shall offer customizable decibel levels for detection
+      * The product shall offer customizable amounts of claps for toggling
+      * The product shall offer multiple different LED light colors.
+
+5. **Manufacturing**
+      * The product will be designed with circuitry on a breadboard.
+      * Functioning of the device shall be easy to assess by a manufacturing.
+      * The total cost price of the produce shall be <$30.
+      * The product shall be designed to consist of the minimum possible amount of parts.
+
+
+6. **Safety**
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1. Regulate system power from 9 volts to 5 volts
 
 ## Open Questions
 
