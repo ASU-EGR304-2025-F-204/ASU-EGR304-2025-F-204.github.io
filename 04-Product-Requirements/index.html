@@ -840,6 +840,11 @@
 </li>
 <li>
 <p><strong>Safety</strong></p>
+<ul>
+<li>Powered by USB 5 V from Curiosity Nano board (no exposed mains in prototype).</li>
+<li>All wiring on breadboard must avoid shorts; use resistors to limit LED current to ≤20 mA.</li>
+<li>Relay or MOSFET switching stage must include flyback protection.</li>
+</ul>
 </li>
 </ol>
 <h2 id="requirement-criteria-specifications">Requirement Criteria Specifications</h2>
@@ -849,11 +854,53 @@
 <li>Regulate system power from 9 volts to 5 volts</li>
 </ol>
 </li>
+<li>
+<ol>
+<li>Clap Detection Accuracy: ≥90% recognition at 1–3 m, ≤70 dB SPL background.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>False Trigger Rate: ≤5% during 1 hour of continuous conversation/TV.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Response Time: Light toggles within ≤200 ms of valid clap detection.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Customization: User can set detection threshold (3 decibel levels) and number of claps (1–3).</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Power Safety: On-board regulator maintains 5 V ±10% for MCU; overcurrent protection ≤1.5 A.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Durability: Device operates for ≥10,000 toggle cycles without component failure.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Manufacturing Cost: &lt;$30 total BOM.</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Setup Time: First-time setup ≤10 minutes by a new user.</li>
+</ol>
+</li>
 </ul>
 <h2 id="open-questions">Open Questions</h2>
 <ul>
-<li>Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?</li>
-<li>Can we improve on failing or self-igniting batteries?</li>
+<li>Do we stick with a simple mechanical relay that’s cheap but makes a noticeable click, or invest in a solid-state option that’s quieter and feels higher-end?</li>
+<li>Should our first version stay focused on core clap and scheduling features, or do we start building in Alexa/Google compatibility right away?</li>
+<li>Is the PIC’s built-in timer “good enough” for daily schedules, or would it be worth adding a real-time clock chip to keep things precise over time?</li>
+<li>Should the design remain USB-powered for safety and easy prototyping, or do we eventually move toward a plug-in AC module that can directly control household lamps?</li>
 </ul>
 
 
