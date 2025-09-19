@@ -66,11 +66,25 @@ With her new clap-activated device, everything changed. Now, a simple clap of he
 
 
 6. **Safety**
+      * Powered by USB 5 V from Curiosity Nano board (no exposed mains in prototype).
+      * All wiring on breadboard must avoid shorts; use resistors to limit LED current to ≤20 mA.
+      * Relay or MOSFET switching stage must include flyback protection.
+
 ## Requirement Criteria Specifications
 
 * 1. Regulate system power from 9 volts to 5 volts
+* 2. Clap Detection Accuracy: ≥90% recognition at 1–3 m, ≤70 dB SPL background.
+* 3. False Trigger Rate: ≤5% during 1 hour of continuous conversation/TV.
+* 4. Response Time: Light toggles within ≤200 ms of valid clap detection.
+* 5. Customization: User can set detection threshold (3 decibel levels) and number of claps (1–3).
+* 6. Power Safety: On-board regulator maintains 5 V ±10% for MCU; overcurrent protection ≤1.5 A.
+* 7. Durability: Device operates for ≥10,000 toggle cycles without component failure.
+* 8. Manufacturing Cost: <$30 total BOM.
+* 9. Setup Time: First-time setup ≤10 minutes by a new user.
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
-* Can we improve on failing or self-igniting batteries?
+* Do we stick with a simple mechanical relay that’s cheap but makes a noticeable click, or invest in a solid-state option that’s quieter and feels higher-end?
+* Should our first version stay focused on core clap and scheduling features, or do we start building in Alexa/Google compatibility right away?
+* Is the PIC’s built-in timer “good enough” for daily schedules, or would it be worth adding a real-time clock chip to keep things precise over time?
+* Should the design remain USB-powered for safety and easy prototyping, or do we eventually move toward a plug-in AC module that can directly control household lamps?
