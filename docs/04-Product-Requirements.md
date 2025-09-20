@@ -13,11 +13,11 @@ Our system will reliably tell the difference between a real clap and background 
 
 ## Stakeholders
 
-- **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-- **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+- **Target group** Our product is designed for early risers college students, nurses, farmers, and other young adults (typically 19–30) who struggle with getting up in the morning and believe a light turning on could help them wake more easily. Seniors are also an important group. For many older adults, having to physically reach light switches can be a daily challenge that increases the risk of falls and reminds them of mobility limitations. A clap-activated light offers independence and peace of mind.
+- **Target purchaser** The people most likely to buy this product are those looking for a quick, affordable way to add a clap-light to their home. Busy young adults with unpredictable sleep schedules can benefit from a simple, adjustable light system. Seniors with mobility issues are another key purchaser group, as the device reduces everyday inconveniences and promotes safety.
+- **Customer service** Our users expect a product that is easy to set up without requiring electrical experience. For seniors in particular, installation needs to be straightforward and safe. Customer service should emphasize compatibility with a wide range of light fixtures, along with providing clear guidance on both on device adjustments and software customization. Striking a balance between simplicity and flexibility will be essential.
+- **Marketing & Sales division** This product can be marketed on social media platforms like Instagram and TikTok through relatable college and lifestyle content, highlighting its convenience as a bedroom or dorm accessory. At the same time, outreach to senior communities including cable television ads and direct partnerships with senior homes will help connect with older users.
+- **Retailers** The clap-light will be sold primarily through online retail channels for easy access and shipping. It should also be available at affordable, large retailers such as Walmart & Amazon. Packaging will be sustainable and designed to withstand normal storage conditions in a dry, moderate climate.
 
 
 ## Use Cases
