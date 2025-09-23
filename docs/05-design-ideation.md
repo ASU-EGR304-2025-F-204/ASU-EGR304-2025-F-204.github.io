@@ -16,8 +16,32 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
-| product provides clear notifications |              buzzer              | the device provides different sounding tones and patterns for each function |
-| product provides clear notifications |             speaker              | the device can emit full waveforms                                          |
+| Performance |              buzzer              | the device provides different sounding tones and patterns for each function |
+| Performance |             speaker              | the device can emit full waveforms                                          |
+| Performance |             speaker              | the device can emit full waveforms                                          |
+| Performance |             speaker              | the device can emit full waveforms                                          |
+| Performance |             speaker              | the device can emit full waveforms                                          |
+| User Interaction |             speaker              | the device can emit full waveforms                                          |
+| User Interaction |             speaker              | the device can emit full waveforms                                          |
+| User Interaction |             speaker              | the device can emit full waveforms                                          |
+| User Interaction |             speaker              | the device can emit full waveforms                                          |
+| User Interaction |             speaker              | the device can emit full waveforms                                          |
+| Reliability |             speaker              | the device can emit full waveforms                                          |
+| Reliability |             speaker              | the device can emit full waveforms                                          |
+| Reliability |             speaker              | the device can emit full waveforms                                          |
+| Reliability |             speaker              | the device can emit full waveforms                                          |
+| Reliability |             speaker              | the device can emit full waveforms                                          |
+| Convenience |             speaker              | the device can emit full waveforms                                          |
+| Convenience |             speaker              | the device can emit full waveforms                                          |
+| Convenience |             speaker              | the device can emit full waveforms                                          |
+| Convenience |             speaker              | the device can emit full waveforms                                          |
+| Convenience |             speaker              | the device can emit full waveforms                                          |
+| Maintenance |             speaker              | the device can emit full waveforms                                          |
+| Maintenance |             speaker              | the device can emit full waveforms                                          |
+| Maintenance |             speaker              | the device can emit full waveforms                                          |
+| Maintenance |             speaker              | the device can emit full waveforms                                          |
+| Maintenance |             speaker              | the device can emit full waveforms                                          |
+
 
 ## Step Three
 
