@@ -7,12 +7,13 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+We’ve all had moments when we’re too tired to get out of bed just to flip a light switch, or we’ve stumbled around in the dark trying to find it. Our team’s idea is a clap-activated light that solves this problem in a simple and safe way. It’s especially helpful for people who wake up early, college students with busy schedules, or seniors who may find moving around at night difficult.
+
+On this page, we share how we brainstormed and organized ideas for the clap light. We started by looking back at the user needs we identified earlier, then came up with as many features as possible. From there, we grouped and ranked the best ones and built three unique product concepts that show different ways the clap light could be designed.
 
 ## Generating Ideas
 
-For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.
+Based on the user needs we identified earlier (convenience, accessibility, safety, and affordability), our team brainstormed potential features for the clap light. For each requirement, we listed at least five ideas. Below is a sample of our brainstorm table:
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
@@ -124,10 +125,13 @@ For each user need and product requirement, brainstorm 5 different product featu
 
 Add your context and tables
 
-## Step Four
+### Smart Clap Light
+Modern design with app integration, touch controls, and voice assistant compatibility.
+![Smart Clap Light](image/Screenshot%2025-09-26%105732.png)
 
-Add your different product concepts stuff here
-> ![Budget Clap Light](image/ClapLight-mockup.png)
+### Accessible Clap Light
+Senior-friendly design with large buttons, dimmable light, and safety features.
+![Accessible Clap Light](image/AccessibleLampLight.png)
 
-## Step Six (video link)
+## Clap Light Animation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkLrAL8x8Js?si=U7ngWnCirqjngvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
