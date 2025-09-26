@@ -127,7 +127,7 @@ Add your context and tables
 
 ### Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
-![Smart Clap Light](image/Screenshot%2025-09-26%105732.png)
+![Smart Clap Light](image/SmartClapLight.png)
 
 ### Accessible Clap Light
 Senior-friendly design with large buttons, dimmable light, and safety features.
