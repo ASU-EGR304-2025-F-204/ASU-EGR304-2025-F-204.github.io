@@ -127,12 +127,16 @@ Add your context and tables
 
 ### Basic Clap Light CADD Model
 
+#### Top View
 ![TOP VIEW](image/Top%20View.png)
 
+#### Front View
 ![FRONT VIEW](image/Front%20View.png)
 
+#### Right View
 ![RIGHT VIEW](image/Right%20View.png)
 
+#### Isometric View
 ![ISOMETRIC VIEW](image/Isometric%20View.png)
 
 ### Smart Clap Light
