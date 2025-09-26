@@ -50,7 +50,7 @@ Add your context and tables
 ## Step Four
 
 Add your different product concepts stuff here
-![Budget Clap Light](image/Budget_Clap_Light.png)
+![Budget Clap Light](docs/image/ClapLight-mockup.png)
 
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
