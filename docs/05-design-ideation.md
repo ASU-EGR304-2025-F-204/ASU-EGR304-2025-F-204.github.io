@@ -125,6 +125,16 @@ Based on the user needs we identified earlier (convenience, accessibility, safet
 
 Add your context and tables
 
+### Basic Clap Light CADD Model
+
+![TOP VIEW](image/Top%20View.png)
+
+![FRONT VIEW](image/Front%20View.png)
+
+![RIGHT VIEW](image/Right%20View.png)
+
+![ISOMETRIC VIEW](image/Isometric%20View.png)
+
 ### Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
 ![Smart Clap Light](image/SmartClapLight.png)
