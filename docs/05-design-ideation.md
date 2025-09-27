@@ -1,5 +1,5 @@
 ---
-title: Design Ideation
+title: Ideation and Concept Generation
 tags:
 - tag1
 - tag2
@@ -123,7 +123,9 @@ Based on the user needs we identified earlier (convenience, accessibility, safet
 
 ## Step Three
 
-Add your context and tables
+Below is our ranking:
+
+![Aaron's Ranking](image/Ranking.png)
 
 ### Basic Clap Light CADD Model
 
@@ -147,5 +149,19 @@ Modern design with app integration, touch controls, and voice assistant compatib
 Senior-friendly design with large buttons, dimmable light, and safety features.
 ![Accessible Clap Light](image/AccessibleLampLight.png)
 
-## Clap Light Animation Video
+### Clap Light Animation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkLrAL8x8Js?si=U7ngWnCirqjngvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Design Ideation Documentation
+
+Over the course of the week, our team worked on this assignment, and we met up twice. We only scheduled one of these meetings beforehand, and the other was because we were all on campus and mostly available at the time. We were able to do this impromptu meeting thanks to good, in-depth communication over text, as well as group scheduling over Canvas.
+
+Our first meeting was the impromptu one. We met in the library on Tuesday at 12:30. Although this was our first meeting, we were able to accomplish quite a few things. Namely, we established what the workload of the assignment was going to look like, and we divided the work evenly so that everybody did what they were most comfortable with doing.
+
+We focused on what everybody could accomplish best, as well as maintaining an equitable workload for each member. Through this, we established that Aaron would do a computer animation of the project as one of the concept sketches, as he has familiarity with computer animation. We also established that Roshan would create a CAD model of a concept design that we could take. We decided to leave the last concept sketch up to Caleb, as we would discuss roles with him at a later time in person–the first meeting was impromptu, and Caleb was unable to attend due to this. We also decided that Quinn would document the meetings, as well as any communication that occurred for part 5. This establishment, prior to a more in-depth discussion, was essential to most efficiently completing each of the assigned steps in a way that minimized chaos or confusion.
+
+The attendees at our first meeting were Aaron, Quinn, and Roshan. During this first meeting, we established that, over the course of our discussions, Quinn would note 60 features, and that Aaron would note 40 features–this was done in order to keep the workload more equitable. In order to avoid confusion, we decided to have Roshan be the one to commit these changes to the website and have Caleb and Roshan do the editing and coding to make it look appropriate for the final submission. In order to efficiently get these 100 features, we individually noted topics relevant to the user requirements already established in our section on Product Requirements; overlap in individually noted topics allowed us to more easily rank our ideas. We then shared these topics over Google Sheets and in our discussion, and went one by one through them, rapid-firing any idea related to the topic in order to quickly get many ideas and features, and not leave anybody out. Although we were unable to establish all 100 features in this one meeting, it made sense to wait to finish discussing possible features or solutions until Caleb was present, so we could get equal contributions from everybody.
+
+In our second meeting, which was a previously scheduled meeting, we met in Peralta 103 on Tuesday at 2:30. Caleb, Quinn, and Aaron met (Roshan was busy) and, with this location, we were more easily able to effectively communicate and work at the same time, making it much easier to later put the final touches on the assignment while separate. We finished establishing possible features and were able to further discuss workloads. Caleb’s concept was established, and he thereafter decided to make a schematic drawing for it.
+
+The group was also briefly able to meet on Wednesday during class, but most of the rest of the important communication was completed over text and email. Thanks to our in-depth communication during our meetings, no big mishaps occurred, and all further communication could be done simply over text.
