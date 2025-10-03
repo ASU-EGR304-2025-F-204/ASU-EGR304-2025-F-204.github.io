@@ -24,24 +24,8 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
+We have quite a bit that we need to further elaborate on. The intricacies of the actual subsystems and how they will all interact alongside the code will likely be a complicated task that will require skilled teamwork. Getting the separate code from each individual design to work in conjunction will likely be very difficult. We will also need to figure out what system of UI we will use, such as analog or digital, as this is an area that we have less experience with. As a whole, the block diagram will prove to be extremely useful in terms of simplifying the design into easily understood and visualized compartments. However, actually implementing such a design in practice will require more extensive research.
 
 ## References
 
-
+[Curiosity Nano hardware user guide](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
