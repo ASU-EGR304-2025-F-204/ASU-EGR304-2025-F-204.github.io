@@ -14,15 +14,7 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
+![image caption](image/egr304-team204-block-diagram-hub.drawio.png)
 
 ## Results
 
