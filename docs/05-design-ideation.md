@@ -121,13 +121,11 @@ Based on the user needs we identified earlier (convenience, accessibility, safet
 
 
 
-## Step Three
-
-Below is our ranking:
+## Our Ranking
 
 ![Aaron's Ranking](image/Ranking.png)
 
-### Basic Clap Light CADD Model
+## Basic Clap Light CADD Model
 
 #### Top View
 ![TOP VIEW](image/Top%20View.png)
@@ -141,15 +139,15 @@ Below is our ranking:
 #### Isometric View
 ![ISOMETRIC VIEW](image/Isometric%20View.png)
 
-### Smart Clap Light
+## Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
 ![Smart Clap Light](image/SmartClapLight.png)
 
-### Accessible Clap Light
+## Accessible Clap Light
 Senior-friendly design with large buttons, dimmable light, and safety features.
 ![Accessible Clap Light](image/AccessibleLampLight.png)
 
-### Clap Light Animation Video
+## Clap Light Animation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkLrAL8x8Js?si=U7ngWnCirqjngvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Design Ideation Documentation
