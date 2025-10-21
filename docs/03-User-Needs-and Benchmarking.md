@@ -152,15 +152,12 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 ## Consolidated Need Categories & Meta-Needs
 
-
-> **Screenshots:** Insert three images showing  
-> 1) all needs collected  
-> ![All Needs](image/Screenshot%202025-09-15%20210305.png)  
-> 2) grouped by category  
-> ![Grouped Needs](image/Screenshot%202025-09-15%20210923.png)  
-> 3) ranked  
-> ![Ranked Needs](image/Screenshot%202025-09-15%20211207.png)
-
+ 1) all needs collected  
+ ![All Needs](image/Screenshot%202025-09-15%20210305.png)  
+ 2) grouped by category  
+ ![Grouped Needs](image/Screenshot%202025-09-15%20210923.png)  
+ 3) ranked  
+ ![Ranked Needs](image/Screenshot%202025-09-15%20211207.png)
 
 
 
@@ -171,6 +168,5 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 4.   Convenience
 5.   Maintainence
 
->**Ranking method:** frequency in reviews (quantified counts), impact on safety/utility, and team vote (weighted 50/30/20).
 
 
