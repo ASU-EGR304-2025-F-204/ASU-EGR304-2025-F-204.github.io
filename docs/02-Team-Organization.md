@@ -7,9 +7,7 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
-
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
+Team 204 is dedicated to designing a reliable and user-friendly clap-activated smart light that improves everyday living. We value collaboration, accountability, and clear communication while using each member’s strengths to achieve high technical standards. Our goal is to create innovative solutions that reflect ASU’s commitment to inclusion, discovery, and positive community impact.
 
 ## Product Mission Statement
 
