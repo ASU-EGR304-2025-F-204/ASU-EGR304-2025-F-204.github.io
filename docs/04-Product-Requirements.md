@@ -36,39 +36,23 @@ With her new clap-activated device, everything changed. Now, a simple clap of he
 
 ## Aspects
 
-1. **Hardware / Product Design**
-      * LED
-      * PIC18F57Q43 Curiosity Nano Board
-      * Various resistors
-      * Wires
-      * Sound sensors
-      * Breadboard
-      * Curisity Nano Cable
- 
-2. **Software / Functionality**
-      * The product will have the implementation of Nano Board Coding
-      * The product shall have one sensor to detect the user.
+**1. Hardware / Product Design**  
+The product should operate at a safe low-voltage level below five volts and be compact enough for a small desk or bedside setup. All components should fit within a housing that can handle regular use without breaking or overheating. The design should allow easy connection between boards using a consistent interface.  
 
-3. **User Experience**
-      * The product shall be easy to setup and implement
-      * The product will require the user to clap to toggle light
+**2. Software / Functionality**  
+The system should detect claps within a range of one to three meters with at least ninety percent accuracy. It should process and respond to valid input in under two hundred milliseconds and operate continuously for long periods without errors or resets.  
 
-4. **Customization**
-      * The product shall offer customizable decibel levels for detection
-      * The product shall offer customizable amounts of claps for toggling
-      * The product shall offer multiple different LED light colors.
+**3. User Experience**  
+The device should be simple for a new user to set up in under ten minutes. It should clearly indicate when it is on, off, or waiting for a signal. The experience should feel reliable and intuitive so users can interact with it without confusion or technical knowledge.  
 
-5. **Manufacturing**
-      * The product will be designed with circuitry on a breadboard.
-      * Functioning of the device shall be easy to assess by a manufacturing.
-      * The total cost price of the produce shall be <$30.
-      * The product shall be designed to consist of the minimum possible amount of parts.
+**4. Customization**  
+The system should allow users to adjust sensitivity levels and the number of claps required for activation. It should also support different light brightness levels or colors for comfort and preference.  
 
+**5. Manufacturing**  
+The total production cost should remain under thirty dollars, and the design should use a minimal number of parts to simplify assembly and reduce failure points. The device should be consistent and reliable after multiple uses.  
 
-6. **Safety**
-      * Powered by USB 5 V from Curiosity Nano board (no exposed mains in prototype).
-      * All wiring on breadboard must avoid shorts; use resistors to limit LED current to ≤20 mA.
-      * Relay or MOSFET switching stage must include flyback protection.
+**6. Safety**  
+The system should prevent short circuits, maintain safe operating temperatures, and protect against overcurrent conditions. All wiring and enclosures should minimize electrical hazards and comply with basic safety standards for low-voltage devices.  
 
 ## Requirement Criteria Specifications
 
