@@ -144,8 +144,8 @@ Modern design with app integration, touch controls, and voice assistant compatib
 ![Smart Clap Light](image/SmartClapLight.png)
 
 ## Accessible Clap Light
-Senior-friendly design with large buttons, dimmable light, and safety features.
-![Accessible Clap Light](image/AccessibleLampLight.png)
+The Accessible Clap Light is a modern, sound-activated lighting device designed to improve convenience and independence for users of all abilities.
+![Accessible Clap Light](image/PotentialProduct.png)
 
 ## Clap Light Animation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkLrAL8x8Js?si=U7ngWnCirqjngvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
