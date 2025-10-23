@@ -16,22 +16,7 @@ _Italic Text_
 
 ## Images
 
-![image caption](Software Proposal.drawio.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
+![image caption](image/SoftwareProposal.drawio.png)
 
 ## Results
 
