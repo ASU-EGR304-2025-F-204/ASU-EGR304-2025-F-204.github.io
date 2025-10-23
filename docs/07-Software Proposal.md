@@ -16,15 +16,9 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption](Software Proposal.drawio.png)
 
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
 
 ## Results
 
