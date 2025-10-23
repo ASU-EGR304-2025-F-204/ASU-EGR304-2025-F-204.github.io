@@ -162,11 +162,11 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 
 
 ## Prioritized Top Needs
-1.   Performance
-2.   User interaction
-3.   Reliability
-4.   Convenience
-5.   Maintainence
+1.   Filter irrelevant noise to minimize unwanted activations
+2.   Should allow both anual and remote control
+3.   Should be adjustable
+4.   Consistent, quiet operation
+5.   Simple, tool-free battery replacement
 
 
 
