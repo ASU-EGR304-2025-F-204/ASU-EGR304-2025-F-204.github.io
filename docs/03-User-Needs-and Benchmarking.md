@@ -153,11 +153,11 @@ We conducted benchmarking using Amazon, Best Buy, and Walmart product listings. 
 ## Consolidated Need Categories & Meta-Needs
 
  1) all needs collected  
- ![All Needs](image/Screenshot%202025-09-15%20210305.png)  
+ ![All Needs](image/100Solutions.png)  
  2) grouped by category  
- ![Grouped Needs](image/Screenshot%202025-09-15%20210923.png)  
+ ![Grouped Needs](image/Solutions_grouped.png)  
  3) ranked  
- ![Ranked Needs](image/Screenshot%202025-09-15%20211207.png)
+ ![Ranked Needs](image/Solutions_Ranked.png)
 
 
 
