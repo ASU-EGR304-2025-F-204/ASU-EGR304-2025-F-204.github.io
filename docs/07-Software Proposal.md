@@ -16,7 +16,7 @@ _Italic Text_
 
 ## Images
 
-![image caption](SoftwareProposal.drawio.png)
+![image caption](image/SoftwareProposal.drawio.png)
 
 ## Results
 
