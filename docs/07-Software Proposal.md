@@ -46,7 +46,7 @@ The diagram highlights how each part of the system including initialization, inp
   Developed the theoretical control logic for how the system coordinates all subsystems. Planned the initialization sequence, communication structure, and signal flow between boards.
 
 **Aaron Kiem – Audio Front-End**  
-  ...
+  Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
 
 **Roshan Roy Geoffrey Joe – Sensor Front-End**  
   ....
