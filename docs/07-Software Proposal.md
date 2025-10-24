@@ -4,33 +4,41 @@ title: Software Proposal
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Our software architecture defines the logical flow and decision-making process for the ClapSense product.  
+The system operates in a continuous loop, processing audio signals, evaluating thresholds, and updating light output and brightness based on detected input.
 
-## Research Question
+This diagram illustrates how each subsystem — Initialization, Input Reading, Output Setting, and State Updating — interacts under the control of the PIC18F57Q43 Curiosity Nano microcontroller.
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
-## Images
+## System-Level Activity Diagram
 
 ![image caption](image/SoftwareProposal.drawio.png)
 
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
+### Initialize System
+* Configures hardware registers and resets internal variables.  
+* Establishes communication between subsystems and sets the initial default state (`000`).  
+* Ensures all hardware peripherals (ADC, GPIO, and UART) are configured before entering the main loop.
 
 
-## References
+### Read Input
+* Collects analog sound data from the microphone/sound sensor.  
+* Uses the ADC to convert sound amplitude into a digital value for comparison.  
+* Filters and interprets clap patterns to detect user input for toggling the light.
 
+
+### Set Output
+* Compares input data (frequency and decibel levels) against defined thresholds.  
+* Controls output pins for lighting, using the results of threshold checks.  
+* Enables proper state transitions (ON/OFF toggle or brightness adjustments).  
+* Implements both frequency-based and decibel-based decision paths.
+
+
+### Update State
+* Handles user interface interactions such as button presses or brightness adjustments.  
+* Monitors ADC readings to determine if brightness should increase or decrease.  
+* Toggles the light output when valid clap or button signals are detected.  
+* Returns to the main loop after updating the system state.
+
+## 📚 References
+* [Curiosity Nano hardware user guide](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
