@@ -12,7 +12,7 @@ The diagram highlights how each part of the system including initialization, inp
 ## System-Level Activity Diagram
 
 ![Software Proposal Diagram](image/SoftwareProposal.drawio.png)
-[Download Source (.drawio)](Software-Proposal.drawio)
+[Web Source (.drawio)](https://drive.google.com/file/d/1XWd2HWFe6WUE2Gx3-sKtdRthA2hVnKsh/view?usp=sharing)
 
 ### Initialize System
 * Configures hardware registers and resets internal variables.  
