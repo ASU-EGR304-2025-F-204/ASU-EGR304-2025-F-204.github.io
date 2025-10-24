@@ -42,17 +42,17 @@ The diagram highlights how each part of the system including initialization, inp
 
 ### Team Members and Roles
 
-**Caleb Yuen – Master Controller (Hub)**  
-  Designed the main control logic that coordinates all subsystems. Handles initialization, communication, and signal management between boards. Manages the decision-making process that interprets clap inputs and triggers the light output sequence.
+    **Caleb Yuen – Master Controller (Hub)**  
+    Designed the main control logic that coordinates all subsystems. Handles initialization, communication, and signal management between boards. Manages the decision-making process that interprets clap inputs and triggers the light output sequence.
 
-**Aaron Kiem – Audio Front-End**  
-  Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
+    **Aaron Kiem – Audio Front-End**  
+    Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
 
-**Roshan Roy Geoffrey Joe – Sensor Front-End**  
-  Designed and coded the light-sensing functionality using the TEMT6000 phototransistor and op-amp stage. Configured ADC and DAC modules to translate sensor data into adjustable brightness feedback signals.
+    **Roshan Roy Geoffrey Joe – Sensor Front-End**  
+    Designed and coded the light-sensing functionality using the TEMT6000 phototransistor and op-amp stage. Configured ADC and DAC modules to translate sensor data into adjustable brightness feedback signals.
 
-**Quinn Maness – Filter Board**  
-  Implemented the user interface and visual feedback system. Controlled LED indicators and potentiometers for brightness adjustment. Created status cues for system states (ON, OFF, and Brightness Levels) through PWM-driven LEDs.
+    **Quinn Maness – Filter Board**  
+    Implemented the user interface and visual feedback system. Controlled LED indicators and potentiometers for brightness adjustment. Created status cues for system states (ON, OFF, and Brightness Levels) through PWM-driven LEDs.
 
 
 ## References
