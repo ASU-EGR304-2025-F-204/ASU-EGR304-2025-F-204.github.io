@@ -564,54 +564,60 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#system-level-activity-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      System-Level Activity Diagram
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="System-Level Activity Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialize-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Initialize System
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#read-input" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Read Input
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#set-output" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Set Output
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#update-state" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Update State
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#references" class="md-nav__link">
     <span class="md-ellipsis">
-      References
+      📚 References
     </span>
   </a>
   
@@ -715,54 +721,60 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#system-level-activity-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      System-Level Activity Diagram
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="System-Level Activity Diagram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#initialize-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Initialize System
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#read-input" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Read Input
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#set-output" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Set Output
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+        
+          <li class="md-nav__item">
+  <a href="#update-state" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Update State
     </span>
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
+        
+      </ul>
+    </nav>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#references" class="md-nav__link">
     <span class="md-ellipsis">
-      References
+      📚 References
     </span>
   </a>
   
@@ -794,27 +806,41 @@
   <h1>Software Proposal</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p><strong>Bold Text</strong>
-<em>Italic Text</em>
-<strong><em>Bold and Italic Text</em></strong></p>
-<h2 id="research-question">Research Question</h2>
-<ul>
-<li>Bullet Point 1</li>
-<li>Bullet Point 2</li>
-<li>Bullet Point 3</li>
-</ul>
-<h2 id="images">Images</h2>
+<p>Our software architecture defines the logical flow and decision-making process for the ClapSense product.<br>
+The system operates in a continuous loop, processing audio signals, evaluating thresholds, and updating light output and brightness based on detected input.</p>
+<p>This diagram illustrates how each subsystem — Initialization, Input Reading, Output Setting, and State Updating — interacts under the control of the PIC18F57Q43 Curiosity Nano microcontroller.</p>
+<h2 id="system-level-activity-diagram">System-Level Activity Diagram</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/SoftwareProposal.drawio.png" data-desc-position="bottom"><img alt="image caption" src="../image/SoftwareProposal.drawio.png"></a></p>
-<h2 id="results">Results</h2>
-<ol>
-<li>Numbered Point 1</li>
-<li>Numbered Point 2</li>
-<li>Numbered Point 3</li>
-</ol>
-<h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
-<h2 id="external-links">External Links</h2>
-<p><a href="https://idealab.asu.edu">example link to idealab</a></p>
-<h2 id="references">References</h2>
+<h3 id="initialize-system">Initialize System</h3>
+<ul>
+<li>Configures hardware registers and resets internal variables.  </li>
+<li>Establishes communication between subsystems and sets the initial default state (<code>000</code>).  </li>
+<li>Ensures all hardware peripherals (ADC, GPIO, and UART) are configured before entering the main loop.</li>
+</ul>
+<h3 id="read-input">Read Input</h3>
+<ul>
+<li>Collects analog sound data from the microphone/sound sensor.  </li>
+<li>Uses the ADC to convert sound amplitude into a digital value for comparison.  </li>
+<li>Filters and interprets clap patterns to detect user input for toggling the light.</li>
+</ul>
+<h3 id="set-output">Set Output</h3>
+<ul>
+<li>Compares input data (frequency and decibel levels) against defined thresholds.  </li>
+<li>Controls output pins for lighting, using the results of threshold checks.  </li>
+<li>Enables proper state transitions (ON/OFF toggle or brightness adjustments).  </li>
+<li>Implements both frequency-based and decibel-based decision paths.</li>
+</ul>
+<h3 id="update-state">Update State</h3>
+<ul>
+<li>Handles user interface interactions such as button presses or brightness adjustments.  </li>
+<li>Monitors ADC readings to determine if brightness should increase or decrease.  </li>
+<li>Toggles the light output when valid clap or button signals are detected.  </li>
+<li>Returns to the main loop after updating the system state.</li>
+</ul>
+<h2 id="references">📚 References</h2>
+<ul>
+<li><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf">Curiosity Nano hardware user guide</a></li>
+</ul>
 
 
 
