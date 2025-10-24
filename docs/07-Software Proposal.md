@@ -39,6 +39,6 @@ This diagram illustrates how each subsystem — Initialization, Input Reading, O
 * Toggles the light output when valid clap or button signals are detected.  
 * Returns to the main loop after updating the system state.
 
-## 📚 References
+## References
 * [Curiosity Nano hardware user guide](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
