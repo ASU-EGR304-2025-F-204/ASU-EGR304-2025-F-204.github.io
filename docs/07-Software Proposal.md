@@ -4,10 +4,9 @@ title: Software Proposal
 
 ## Introduction
 
-Our software architecture defines the logical flow and decision-making process for the ClapSense product.  
-The system operates in a continuous loop, processing audio signals, evaluating thresholds, and updating light output and brightness based on detected input.
+Our software design shows how the ClapSense system makes decisions and runs its internal processes. The program operates in a continuous loop that listens for sounds, checks audio levels, and adjusts the light brightness or power based on what it detects.
 
-This diagram illustrates how each subsystem — Initialization, Input Reading, Output Setting, and State Updating — interacts under the control of the PIC18F57Q43 Curiosity Nano microcontroller.
+The diagram highlights how each part of the system including initialization, input reading, output control, and state updates works together under the PIC18F57Q43 Curiosity Nano microcontroller.
 
 
 ## System-Level Activity Diagram
