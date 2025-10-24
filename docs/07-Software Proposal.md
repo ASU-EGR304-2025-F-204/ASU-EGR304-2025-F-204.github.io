@@ -51,7 +51,7 @@ The diagram highlights how each part of the system including initialization, inp
 **Roshan Roy Geoffrey Joe – Sensor Front-End**  
   Designed and coded the light-sensing functionality using the TEMT6000 phototransistor and op-amp stage. Configured ADC and DAC modules to translate sensor data into adjustable brightness feedback signals.
 
-**Quinn Maness – Filter and UI Board**  
+**Quinn Maness – Filter Board**  
   Implemented the user interface and visual feedback system. Controlled LED indicators and potentiometers for brightness adjustment. Created status cues for system states (ON, OFF, and Brightness Levels) through PWM-driven LEDs.
 
 
