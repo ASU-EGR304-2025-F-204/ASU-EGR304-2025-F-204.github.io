@@ -4,33 +4,57 @@ title: Software Proposal
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Our software design shows how the ClapSense system makes decisions and runs its internal processes. The program operates in a continuous loop that listens for sounds, checks audio levels, and adjusts the light brightness or power based on what it detects.
 
-## Research Question
+The diagram highlights how each part of the system including initialization, input reading, output control, and state updates works together under the PIC18F57Q43 Curiosity Nano microcontroller.
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
 
-## Images
+## System-Level Activity Diagram
 
-![image caption](image/SoftwareProposal.drawio.png)
+![Software Proposal Diagram](image/SoftwareProposal.drawio.png)
+[Download Source (.drawio)](https://drive.google.com/file/d/1XWd2HWFe6WUE2Gx3-sKtdRthA2hVnKsh/view?usp=sharing)
 
-## Results
+### Initialize System
+* Configures hardware registers and resets internal variables.  
+* Establishes communication between subsystems and sets the initial default state (`000`).  
+* Ensures all hardware peripherals (ADC, GPIO, and UART) are configured before entering the main loop.
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
 
-## Conclusions and Future Work
+### Read Input
+* Collects analog sound data from the microphone/sound sensor.  
+* Uses the ADC to convert sound amplitude into a digital value for comparison.  
+* Filters and interprets clap patterns to detect user input for toggling the light.
 
-## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+### Set Output
+* Compares input data (frequency and decibel levels) against defined thresholds.  
+* Controls output pins for lighting, using the results of threshold checks.  
+* Enables proper state transitions (ON/OFF toggle or brightness adjustments).  
+* Implements both frequency-based and decibel-based decision paths.
+
+
+### Update State
+* Handles user interface interactions such as button presses or brightness adjustments.  
+* Monitors ADC readings to determine if brightness should increase or decrease.  
+* Toggles the light output when valid clap or button signals are detected.  
+* Returns to the main loop after updating the system state.
+
+
+### Team Members and Roles
+
+**Caleb Yuen – Master Controller (Hub)**  
+  Developed the theoretical control logic for how the system coordinates all subsystems. Planned the initialization sequence, communication structure, and signal flow between boards.
+
+**Aaron Kiem – Audio Front-End**  
+  Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
+
+**Quinn Maness – Filter Board**  
+  Developed the filtering and filter adjustment system for the clap sound logic. Utilized a window comparator circuit and the active band-pass device (BA3835F-E2) in order to create the filter threshold for decibel level and frequency, respectively. Implemented potentiometers onto both systems in order to allow for user adjustment of the threshold ranges for both frequency and decibel.
+
+**Roshan Roy Geoffrey Joe – Sensor Front-End**  
+  Developed the update state logic to direct the power to the light for dimming and general purposes. Configured the potentiometer to adjust the light's brightness and implemeted a manual switch to turn the light on and off as well. Also inputed a method to read values from the filter board to know wheter to turn the light on or off.
 
 
 ## References
-
+* [Curiosity Nano hardware user guide](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
