@@ -49,7 +49,7 @@ The diagram highlights how each part of the system including initialization, inp
   Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
 
 **Roshan Roy Geoffrey Joe – Sensor Front-End**  
-  ....
+  Developed the update state logic to direct the power to the light for dimming and general purposes. Configured the potentiometer to adjust the light's brightness and implemeted a manual switch to turn the light on and off as well. Also inputed a method to read values from the filter board to know wheter to turn the light on or off.
 
 **Quinn Maness – Filter Board**  
   ...
