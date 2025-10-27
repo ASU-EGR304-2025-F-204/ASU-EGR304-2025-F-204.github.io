@@ -5,15 +5,15 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Intro/Overview
 
 We’ve all had moments when we’re too tired to get out of bed just to flip a light switch, or we’ve stumbled around in the dark trying to find it. Our team’s idea is a clap-activated light that solves this problem in a simple and safe way. It’s especially helpful for people who wake up early, college students with busy schedules, or seniors who may find moving around at night difficult.
 
-On this page, we share how we brainstormed and organized ideas for the clap light. We started by looking back at the user needs we identified earlier, then came up with as many features as possible. From there, we grouped and ranked the best ones and built three unique product concepts that show different ways the clap light could be designed.
+On this page, we share how we brainstormed and organized ideas for the clap light. We started by looking back at the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-and%20Benchmarking/) we identified earlier, then came up with as many features as possible. From there, we grouped and ranked the best ones and built three unique product concepts that show different ways the clap light could be designed.
 
 ## Generating Ideas
 
-Based on the user needs we identified earlier (convenience, accessibility, safety, and affordability), our team brainstormed potential features for the clap light. For each requirement, we listed at least five ideas. Below is a sample of our brainstorm table:
+Based on the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-and%20Benchmarking/) we identified earlier (convenience, accessibility, safety, and affordability), our team brainstormed potential features for the clap light. For each requirement, we listed at least five ideas. Below is a sample of our brainstorm table:
 
 |                   requirement / need |             feature              | detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
