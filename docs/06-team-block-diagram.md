@@ -14,7 +14,7 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
 
 ## Images
 
-![image caption](image/TeamBlockDiagram2.1.png)
+![image caption](image/TeamBlockDiagram2.2.png)
 
 ## Results
 
