@@ -13,11 +13,11 @@ Our system will reliably tell the difference between a real clap and background 
 
 ## Stakeholders
 
-What is important to our team is reliability, accessibility, and simplicity. We want our clap-activated light to respond accurately every time without confusing random sounds for claps. Ease of use is another priority because users should not need electrical experience to install or customize the system. We also care about safety and affordability, making sure our design can be powered by a low-voltage USB connection and built under thirty dollars for accessible prototyping and real-world use.
+Our team values reliability, accessibility, and simplicity. We want our clap-activated light to respond accurately every time without confusing random sounds for claps. Ease of use is a significant priority, as users should not need electrical experience to install or customize the system. We also care about safety and affordability. We prove this by making sure our design can be powered by a low-voltage USB connection and by making it possible to be built with under thirty dollars for accessible prototyping and real-world use.
 
-We are designing primarily for two groups. The first group is young adults such as college students, nurses, or shift workers who need a simple, automated way to wake up or control lights hands-free. The second group is seniors and people with limited mobility who benefit from being able to turn on lights safely without getting up or reaching for switches.
+We designed ClapSense primarily for two groups. The first group would be young adults such as college students, nurses, or shift workers who need a simple, automatic way to wake up or control lights hands-free. The second group we wish to benefit are our seniors and those with limited mobility--both of which might benefit from being able to turn on lights safely without getting up or reaching for switches.
 
-As a team, our focus is on developing a reliable sound detection system that minimizes false triggers, a safe low-voltage circuit that can be used in dorms or senior living environments, and a modular design that can expand into future smart-home integration. These priorities show what matters most to us—creating a product that is dependable, safe, and inclusive while demonstrating real engineering and design skills.
+As a team, our focus is on developing a reliable sound detection system that minimizes false triggers, a safe low-voltage circuit that can be used in dorms or senior living environments, and a modular design that can expand into future smart-home integration. These priorities show what matters most to us—-creating a product that is dependable, safe, and inclusive; all while demonstrating real engineering and design skills.
 
 
 ## Use Cases
