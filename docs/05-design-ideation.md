@@ -127,6 +127,9 @@ Based on the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-
 
 ## Basic Clap Light CADD Model
 
+
+![BASIC CLAP LIGHT](image/BasicClapLight.png)
+
 #### Top View
 ![TOP VIEW](image/Top%20View.png)
 
