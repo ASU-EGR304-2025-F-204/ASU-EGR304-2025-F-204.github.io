@@ -128,6 +128,7 @@ Based on the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-
 ## Basic Clap Light CADD Model
 
 
+
 ![BASIC CLAP LIGHT](image/BasicClapLight.png)
 
 #### Top View
@@ -144,11 +145,13 @@ Based on the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-
 
 ## Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
-![Smart Clap Light](image/SmartClapLight.png)
+
+![Smart Clap Light](image/SmartClapLight.png){width="300" height ="300"}
 
 ## Accessible Clap Light
 The Accessible Clap Light is a modern, sound-activated lighting device designed to improve convenience and independence for users of all abilities.
-![Accessible Clap Light](image/PotentialProduct.png)
+
+![Accessible Clap Light](image/PotentialProduct.png){width="300" height ="300"}
 
 ## Clap Light Animation Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kkLrAL8x8Js?si=U7ngWnCirqjngvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
