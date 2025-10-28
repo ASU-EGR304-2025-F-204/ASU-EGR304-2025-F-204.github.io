@@ -14,7 +14,7 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
 
 ## Images
 
-![image caption](image/egr304-team204-block-diagram-hub.drawio.png)
+![image caption](image/egr304-team204-block-diagram.png)
 
 ## Results
 
@@ -23,12 +23,12 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
     * Caleb: Master Controller (Hub) – coordinates inputs and controls the lamp actuator
     * Aaron: Audio Front-End – detects clap signals using a microphone and op-amp
     * Roshan: Sensor Front-End – measures ambient light levels for adaptive brightness
-    * Quinn: Filter Board – processes potentiometer inputs and displays system status using LEDs
+    * Quinn: Filter Board – filters audio inputs with potentiometer-determined thresholds and gives outputs
 3. The 8-pin ribbon connector standard ensures consistent power, ground, and communication lines across all boards.
 
 ## Conclusions and Future Work
 
-We have quite a bit that we need to further elaborate on. The intricacies of the actual subsystems and how they will all interact alongside the code will likely be a complicated task that will require skilled teamwork. Getting the separate code from each individual design to work in conjunction will likely be very difficult. We will also need to figure out what system of UI we will use, such as analog or digital, as this is an area that we have less experience with. As a whole, the block diagram will prove to be extremely useful in terms of simplifying the design into easily understood and visualized compartments. However, actually implementing such a design in practice will require more extensive research.
+We have quite a bit that we need to further elaborate on. The intricacies of the actual subsystems and how they will all interact alongside the code will likely be a complicated task that will require skilled teamwork. Getting the separate code from each individual design to work in conjunction will likely be very difficult. As a whole, the block diagram will prove to be extremely useful in terms of simplifying the design into easily understood and visualized compartments. However, actually implementing such a design in practice will require more extensive research.
 
 ## References
 
