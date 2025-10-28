@@ -141,7 +141,7 @@ Based on the user needs we identified earlier (convenience, accessibility, safet
 
 ## Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
-![Smart Clap Light](image/SmartClapLight.png)
+![Smart Clap Light](image/SmartClapLight.png){style width:"350" height:"300;"}
 
 ## Accessible Clap Light
 The Accessible Clap Light is a modern, sound-activated lighting device designed to improve convenience and independence for users of all abilities.
