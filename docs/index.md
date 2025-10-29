@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">ClapSense<br>
 <font size="5">Team 204<br>
-**Submission: September, 05, 2025**<br>
+**Submission: October 31, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
