@@ -127,9 +127,7 @@ Based on the [user needs](https://asu-egr304-2025-f-204.github.io/03-User-Needs-
 
 ## Basic Clap Light CADD Model
 
-
-
-![BASIC CLAP LIGHT](image/BasicClapLight.png)
+![BASIC CLAP LIGHT](image/AllFourViews.png)
 
 ## Smart Clap Light
 Modern design with app integration, touch controls, and voice assistant compatibility.
