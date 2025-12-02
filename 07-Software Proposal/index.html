@@ -601,9 +601,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#update-state" class="md-nav__link">
+  <a href="#update-brightness" class="md-nav__link">
     <span class="md-ellipsis">
-      Update State
+      Update Brightness
     </span>
   </a>
   
@@ -767,9 +767,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#update-state" class="md-nav__link">
+  <a href="#update-brightness" class="md-nav__link">
     <span class="md-ellipsis">
-      Update State
+      Update Brightness
     </span>
   </a>
   
@@ -848,12 +848,13 @@
 <li>Enables proper state transitions (ON/OFF toggle or brightness adjustments).  </li>
 <li>Implements both frequency-based and decibel-based decision paths.</li>
 </ul>
-<h3 id="update-state">Update State</h3>
+<h3 id="update-brightness">Update Brightness</h3>
 <ul>
-<li>Handles user interface interactions such as button presses or brightness adjustments.  </li>
-<li>Monitors ADC readings to determine if brightness should increase or decrease.  </li>
-<li>Toggles the light output when valid clap or button signals are detected.  </li>
-<li>Returns to the main loop after updating the system state.</li>
+<li>Reads the most recent ADC value from the distance sensor front-end.</li>
+<li>Applies simple digital filtering to smooth out noise and rapid fluctuations in the sensor signal.</li>
+<li>Maps the filtered value into a small number of discrete brightness levels (for example 6 steps from very dim to bright).</li>
+<li>Gradually steps between brightness levels so the LED does not “jump” or flash when the distance changes.</li>
+<li>Sends the final brightness command to the LED driver via the DAC output and then returns to the main loop.</li>
 </ul>
 <h3 id="team-members-and-roles">Team Members and Roles</h3>
 <p><strong>Caleb Yuen – Master Controller (Hub)</strong><br>
@@ -862,8 +863,8 @@
   Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.</p>
 <p><strong>Quinn Maness – Filter Board</strong><br>
   Developed the filtering and filter adjustment system for the clap sound logic. Utilized a window comparator circuit with window comparator TLV6700DDCR and the active band-pass device BA3835F-E2 in order to create the filter threshold for decibel level and frequency, respectively. Implemented potentiometers onto both systems in order to allow for user adjustment of the threshold ranges for both frequency and decibel.</p>
-<p><strong>Roshan Roy Geoffrey Joe – Sensor Front-End</strong><br>
-  Developed the update state logic to direct the power to the light for dimming and general purposes. Configured the potentiometer to adjust the light's brightness and implemeted a manual switch to turn the light on and off as well. Also inputed a method to read values from the filter board to know wheter to turn the light on or off.</p>
+<p><strong>Roshan Roy Geoffrey Joe – Distance Sensor Front-End</strong><br>
+  Designed and implemented the brightness-control logic driven by the distance sensor and MCP6002 op-amp. Configured the ADC on RA0 to read the amplified distance signal, filtered the readings in software, and mapped them into discrete brightness levels. Used DAC1 on RA2 to send a smooth, analog brightness command to the LED board through the ribbon cable.</p>
 <h2 id="references">References</h2>
 <ul>
 <li><a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf">Curiosity Nano hardware user guide</a></li>
