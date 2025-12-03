@@ -4,7 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-Our team designed a hub-and-spoke block diagram for the clap-activated smart light project. The Master Controller (Caleb) serves as the Hub, coordinating signals from the Audio Front-End (Aaron), Filter Board (Quinn), and Sensor Front-End (Roshan). Each board is based on the PIC18F57Q43 Curiosity Nano and communicates via an 8-pin ribbon cable standard. The Hub also drives the lamp actuator, which serves as the system’s main physical output.
+Our team designed a hub-and-spoke block diagram for the clap-activated smart light project. The Master Controller (Caleb) serves as the Hub, coordinating signals from the Audio Front-End (Aaron), Light Sensor Board (Quinn), and Sensor Front-End (Roshan). Each board is based on the PIC18F57Q43 Curiosity Nano and communicates via an 8-pin ribbon cable standard. The Hub also drives the lamp actuator, which serves as the system’s main physical output.
 
 ## Research Question
 
@@ -14,7 +14,7 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
 
 ## Images
 
-![image caption](image/egr304team204blockdiagram.png)
+![image caption](image/TeamBlockDiagram.png)
 
 ## Results
 
@@ -23,7 +23,7 @@ Our team designed a hub-and-spoke block diagram for the clap-activated smart lig
     * Caleb: Master Controller (Hub) – coordinates inputs and controls the lamp actuator
     * Aaron: Audio Front-End – detects clap signals using a microphone and op-amp
     * Roshan: Sensor Front-End – measures ambient light levels for adaptive brightness
-    * Quinn: Filter Board – filters audio inputs with potentiometer-determined thresholds and gives outputs
+    * Quinn: Light Sensor Board – senses outside light to automatically shut off system
 3. The 8-pin ribbon connector standard ensures consistent power, ground, and communication lines across all boards.
 
 ## Conclusions and Future Work
