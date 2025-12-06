@@ -58,3 +58,4 @@ The diagram highlights how each part of the system including initialization, inp
 ## References
 * [Curiosity Nano hardware user guide](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
+If we were to create a version 2.0 of this project we would like to have extra debugging LEDs to indicate which subsystem is giving output to the overall system.
