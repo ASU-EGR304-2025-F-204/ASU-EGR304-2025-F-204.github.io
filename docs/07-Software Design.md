@@ -33,11 +33,13 @@ The diagram highlights how each part of the system including initialization, inp
 * Implements both frequency-based and decibel-based decision paths.
 
 
-### Update State
-* Handles user interface interactions such as button presses or brightness adjustments.  
-* Monitors ADC readings to determine if brightness should increase or decrease.  
-* Toggles the light output when valid clap or button signals are detected.  
-* Returns to the main loop after updating the system state.
+### Update Brightness
+* Reads the most recent ADC value from the distance sensor front-end.
+* Applies simple digital filtering to smooth out noise and rapid fluctuations in the sensor signal.
+* Maps the filtered value into a small number of discrete brightness levels (for example 6 steps from very dim to bright).
+* Gradually steps between brightness levels so the LED does not “jump” or flash when the distance changes.
+* Sends the final brightness command to the LED driver via the DAC output and then returns to the main loop.
+
 
 
 ### Team Members and Roles
@@ -51,8 +53,8 @@ The diagram highlights how each part of the system including initialization, inp
 **Quinn Maness – Filter Board**  
   Developed the filtering and filter adjustment system for the clap sound logic. Utilized a window comparator circuit with window comparator TLV6700DDCR and the active band-pass device BA3835F-E2 in order to create the filter threshold for decibel level and frequency, respectively. Implemented potentiometers onto both systems in order to allow for user adjustment of the threshold ranges for both frequency and decibel.
 
-**Roshan Roy Geoffrey Joe – Sensor Front-End**  
-  Developed the update state logic to direct the power to the light for dimming and general purposes. Configured the potentiometer to adjust the light's brightness and implemeted a manual switch to turn the light on and off as well. Also inputed a method to read values from the filter board to know wheter to turn the light on or off.
+**Roshan Roy Geoffrey Joe – Distance Sensor Front-End**  
+  Designed and implemented the brightness-control logic driven by the distance sensor and MCP6002 op-amp. Configured the ADC on RA0 to read the amplified distance signal, filtered the readings in software, and mapped them into discrete brightness levels. Used DAC1 on RA2 to send a smooth, analog brightness command to the LED board through the ribbon cable.
 
 
 ## References
