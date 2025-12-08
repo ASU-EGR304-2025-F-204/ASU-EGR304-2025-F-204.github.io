@@ -11,4 +11,4 @@ Team 204 is dedicated to designing a reliable and user-friendly clap-activated s
 
 ## Product Mission Statement
 
-Our mission is to design and deliver reliable embedded systems that consistently perform under real-world conditions. We achieve this through clear communication, balanced teamwork, and leveraging each member’s strengths. By producing professional documentation and well-structured code, we ensure our system’s long-term usability and maintainability. Above all, we strive to create a collaborative and respectful culture where every member contributes, ensuring our projects embody both technical excellence and the vision of our team.
+Our mission is to create a reliable clap-activated lighting system that responds accurately under real-world conditions and enhances everyday convenience.

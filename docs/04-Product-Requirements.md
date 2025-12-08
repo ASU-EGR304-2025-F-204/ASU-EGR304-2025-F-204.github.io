@@ -6,69 +6,61 @@ tags:
 ---
 
 ## Project Objective
-
-Our team is designing a next generation clap-activated smart light that makes everyday living a little easier. Traditional clap lights are cheap and fun, but anyone who's used one knows the fustrations. They often turn on when you are just talking or laughing and sometimes do not respond at all when you actually want them to. We want to fix that.
-
-Our system will reliably tell the difference between a real clap and background noise so it only responds when you want it to. It will also let user custimize settings, schedule lights to turn on or off automatically, and fit seamlessly into a mondern smart home setup. The goal is to create a product that feels intuitive, dependable, and genuinely useful in daily life.
+The goal of this project is to create a next-generation clap-activated smart light that reliably distinguishes real claps from background noise, responds quickly, and provides useful customization features to improve everyday convenience.
 
 ## Stakeholders
 
-Our team values reliability, accessibility, and simplicity. We want our clap-activated light to respond accurately every time without confusing random sounds for claps. Ease of use is a significant priority, as users should not need electrical experience to install or customize the system. We also care about safety and affordability. We prove this by making sure our design can be powered by a low-voltage USB connection and by making it possible to be built with under thirty dollars for accessible prototyping and real-world use.
-
-We designed ClapSense primarily for two groups. The first group would be young adults such as college students, nurses, or shift workers who need a simple, automatic way to wake up or control lights hands-free. The second group we wish to benefit are our seniors and those with limited mobility--both of which might benefit from being able to turn on lights safely without getting up or reaching for switches.
-
-As a team, our focus is on developing a reliable sound detection system that minimizes false triggers, a safe low-voltage circuit that can be used in dorms or senior living environments, and a modular design that can expand into future smart-home integration. These priorities show what matters most to us—-creating a product that is dependable, safe, and inclusive; all while demonstrating real engineering and design skills.
+Our primary stakeholders are users whose needs directly influence our engineering limits. Seniors or individuals with limited mobility may clap from a seated or lying position, so the system must detect claps from longer distances and without requiring physical interaction. Users with reduced hearing may clap louder or softer than typical levels, so the system must support adjustable sensitivity to accommodate different sound profiles. Young adults, such as college students or shift workers, may need a simple hands-free way to control lights while multitasking, so the product must be easy to install and intuitive to use. Safety-focused users require low-voltage operation, no exposed wiring, and predictable behavior. These characteristics define our measurable design constraints: long-distance detection, adjustable thresholds, fast setup, consistent accuracy, and safe operation under 5 volts.
 
 
 ## Use Cases
 
 **User Story #1: Jesus**
 
-Jesus is a senior who values simplicity and independence in his daily routine. He recently purchased a clap-activated device, and it turned out to be exactly what he needed. Now, with just a clap of his hands, he can easily turn the device on or off without having to fumble for switches.
-
-For Jesus, this small feature makes a big difference, especially in his senior years. It gives him a sense of control and convenience, reducing the hassle of bending over or reaching for hard-to-access buttons. He feels grateful for how straightforward and effective the device is, and he finds joy in the fact that it works seamlessly for his needs.
+Jesus is a senior who prefers not to bend or reach for switches. Because he often claps while seated, the system must detect claps reliably from up to three meters away at varying angles. His story drives requirements for long-range detection, simple installation, clear status indication, and minimal physical effort.
 
 **User Story #2: Arleta**
 
-Arleta is someone who values convenience and ease in her daily life. She often found herself frustrated by having to constantly get up just to turn things off. That small but repeated hassle wore her down over time.
-
-With her new clap-activated device, everything changed. Now, a simple clap of her hands allows her to control it without leaving her spot. She loves the newfound freedom and simplicity—it feels empowering to handle things effortlessly. For Arleta, this small feature means less interruption in her day and more comfort in her home.
+Arleta values convenience but lives with constant background noise from her TV. Her experience requires the system to ignore normal conversation and television audio while still responding to a deliberate clap. This leads to requirements for false-trigger filtering, adjustable sensitivity, and reliable operation in noisy environments.
 
 ## Aspects
 
 **1. Hardware / Product Design**  
-The product should operate at a safe low-voltage level below five volts and be compact enough for a small desk or bedside setup. All components should fit within a housing that can handle regular use without breaking or overheating. The design should allow easy connection between boards using a consistent interface.  
+The product must operate safely below five volts, fit into a compact enclosure, and maintain reliable operation without excessive heat. Internal modules must connect consistently, and the physical design must withstand repeated daily use.
 
 **2. Software / Functionality**  
-The system should detect claps within a range of one to three meters with at least ninety percent accuracy. It should process and respond to valid input in under two hundred milliseconds and operate continuously for long periods without errors or resets.  
+A new user should be able to set up the device in under ten minutes. Visual indicators must clearly communicate system state, and interactions should feel intuitive without requiring technical knowledge.  
 
 **3. User Experience**  
 The device should be simple for a new user to set up in under ten minutes. It should clearly indicate when it is on, off, or waiting for a signal. The experience should feel reliable and intuitive so users can interact with it without confusion or technical knowledge.  
 
 **4. Customization**  
-The system should allow users to adjust sensitivity levels and the number of claps required for activation. It should also support different light brightness levels or colors for comfort and preference.  
+Users should be able to adjust detection sensitivity and choose between one, two, or three claps for activation. Support for brightness levels or color control should be available for comfort and preference. 
 
 **5. Manufacturing**  
-The total production cost should remain under thirty dollars, and the design should use a minimal number of parts to simplify assembly and reduce failure points. The device should be consistent and reliable after multiple uses.  
+The system must maintain a bill of materials cost under thirty dollars and use as few parts as possible to simplify manufacturing, improve reliability, and reduce failure points. 
 
 **6. Safety**  
-The system should prevent short circuits, maintain safe operating temperatures, and protect against overcurrent conditions. All wiring and enclosures should minimize electrical hazards and comply with basic safety standards for low-voltage devices.  
+All circuitry must prevent shorts, overcurrent, and overheating. External surfaces must remain safe to touch, and the design must comply with low-voltage safety guidelines.
 
-## Requirement Criteria Specifications
+## Requirement Criteria Specifications (SMART)
 
-* 1. Regulate system power from 9 volts to 5 volts
-* 2. Clap Detection Accuracy: ≥90% recognition at 1–3 m, ≤70 dB SPL background.
-* 3. False Trigger Rate: ≤5% during 1 hour of continuous conversation/TV.
-* 4. Response Time: Light toggles within ≤200 ms of valid clap detection.
-* 5. Customization: User can set detection threshold (3 decibel levels) and number of claps (1–3).
-* 6. Power Safety: On-board regulator maintains 5 V ±10% for MCU; overcurrent protection ≤1.5 A.
-* 7. Durability: Device operates for ≥10,000 toggle cycles without component failure.
-* 8. Manufacturing Cost: <$30 total BOM.
-* 9. Setup Time: First-time setup ≤10 minutes by a new user.
+* 1. Regulate system power from 9 V to 5 V within ±10%.
+* 2. Clap detection accuracy ≥90% at 1–3 meters in ≤70 dB environments.
+* 3. False trigger rate ≤5% during one hour of conversation or TV audio.
+* 4. System response time ≤200 ms from clap to light toggle.
+* 5. User-adjustable sensitivity across three levels and activation using 1–3 claps.
+* 6. Overcurrent protection limited to ≤1.5 A; external surface temperature ≤50°C.
+* 7. Device must operate for at least 10,000 toggle cycles without failure.
+* 8. Total BOM cost < $30.
+* 9. First-time setup completed by a new user in ≤10 minutes.
+* 10. System must detect claps ≥80 dB SPL for accessibility.
+* 11. Device must remain operational without false triggers in noise up to 65 dB SPL.
+* 12. All external surfaces must remain below 50°C during normal operation.
 
 ## Open Questions
 
-* Do we stick with a simple mechanical relay that’s cheap but makes a noticeable click, or invest in a solid-state option that’s quieter and feels higher-end?
-* Should our first version stay focused on core clap and scheduling features, or do we start building in Alexa/Google compatibility right away?
-* Is the PIC’s built-in timer “good enough” for daily schedules, or would it be worth adding a real-time clock chip to keep things precise over time?
-* Should the design remain USB-powered for safety and easy prototyping, or do we eventually move toward a plug-in AC module that can directly control household lamps?
+* Should the product use a mechanical relay for simplicity or a silent solid-state switch for a more premium experience?
+* Should the first product version focus solely on clap and scheduling features, or include Alexa/Google compatibility from the start?
+* Is the PIC’s internal timer sufficient for scheduling, or is an external RTC required for long-term accuracy?
+* Should the design remain USB-powered for safety, or eventually support AC mains control for lamp integration?
