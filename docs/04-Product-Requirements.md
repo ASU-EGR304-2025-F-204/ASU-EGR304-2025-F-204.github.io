@@ -45,18 +45,18 @@ All circuitry must prevent shorts, overcurrent, and overheating. External surfac
 
 ## Requirement Criteria Specifications (SMART)
 
-* 1. Regulate system power from 9 V to 5 V within ±10%.
-* 2. Clap detection accuracy ≥90% at 1–3 meters in ≤70 dB environments.
-* 3. False trigger rate ≤5% during one hour of conversation or TV audio.
-* 4. System response time ≤200 ms from clap to light toggle.
-* 5. User-adjustable sensitivity across three levels and activation using 1–3 claps.
-* 6. Overcurrent protection limited to ≤1.5 A; external surface temperature ≤50°C.
-* 7. Device must operate for at least 10,000 toggle cycles without failure.
-* 8. Total BOM cost < $30.
-* 9. First-time setup completed by a new user in ≤10 minutes.
-* 10. System must detect claps ≥80 dB SPL for accessibility.
-* 11. Device must remain operational without false triggers in noise up to 65 dB SPL.
-* 12. All external surfaces must remain below 50°C during normal operation.
+1. Regulate system power from 9 V to 5 V within ±10%.
+2. Clap detection accuracy ≥90% at 1–3 meters in ≤70 dB environments.
+3. False trigger rate ≤5% during one hour of conversation or TV audio.
+4. System response time ≤200 ms from clap to light toggle.
+5. User-adjustable sensitivity across three levels and activation using 1–3 claps.
+6. Overcurrent protection limited to ≤1.5 A; external surface temperature ≤50°C.
+7. Device must operate for at least 10,000 toggle cycles without failure.
+8. Total BOM cost < $30.
+9. First-time setup completed by a new user in ≤10 minutes.
+10. System must detect claps ≥80 dB SPL for accessibility.
+11. Device must remain operational without false triggers in noise up to 65 dB SPL.
+12. All external surfaces must remain below 50°C during normal operation.
 
 ## Open Questions
 
