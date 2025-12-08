@@ -1,5 +1,5 @@
 ---
-title: Software Proposal
+title: Software Design
 ---
 
 ## Introduction
@@ -55,6 +55,21 @@ The diagram highlights how each part of the system including initialization, inp
 
 **Roshan Roy Geoffrey Joe – Distance Sensor Front-End**  
   Designed and implemented the brightness-control logic driven by the distance sensor and MCP6002 op-amp. Configured the ADC on RA0 to read the amplified distance signal, filtered the readings in software, and mapped them into discrete brightness levels. Used DAC1 on RA2 to send a smooth, analog brightness command to the LED board through the ribbon cable.
+
+## Software Version 2.0 Discussion
+If our team were to develop a Version 2.0 of the entire ClapSense software system, we would focus on improving how the four subsystems work together and how data moves from the sensing boards into the Hub. In our current design each subsystem functions independently and sends a simple signal to the Hub. The Audio Front-End outputs a digital clap detection signal, the Light Sensor sends a digital high or low value based on ambient brightness, and the Distance Sensor Front-End outputs an analog voltage for LED brightness. The Hub software then reads these three inputs and makes the final decision about turning the motor on or off and adjusting the LED brightness. This approach works, but the software in Version 2.0 could take much better advantage of the hardware and create a more synchronized and reliable overall system.
+
+One improvement would be standardizing the signal processing across the sensing boards so the Hub receives cleaner and more consistent information. Right now each board interprets its own sensor in its own way, and the Hub has to assume the signals are correct. In a Version 2.0 design we could refine the Audio Front-End software to provide not just a raw clap flag but also confidence levels or filtered metrics that make clap detection more robust. The Light Sensor Front-End could provide a scaled brightness value instead of a simple high or low output, giving the Hub more context for deciding when to activate the system. The Distance Front-End could support built in smoothing or classification so the Hub does not need to process noisy ADC readings. These changes would make the system more accurate and better aligned with our team requirement of reducing false triggers and ensuring predictable behavior in different environments.
+
+Another major improvement would involve timing and synchronization. In Version 1 each subsystem updates its output continuously and independently, and the Hub polls them in a loop. This can lead to small inconsistencies in when each signal changes. Version 2.0 could establish a shared update rate or a trigger mechanism so that all subsystems refresh their outputs at predictable intervals. The Hub could then run its state machine with the confidence that all three inputs represent a consistent snapshot of the environment. This improvement would help us meet the performance requirement of responding to a clap within two hundred milliseconds while avoiding situations where one subsystem lags behind the others.
+
+We would also redesign the Hub software to use a clearer and more expressive state machine. In Version 1 the Hub simply checks whether a clap occurred and whether the light sensor is covered. In Version 2.0 we could introduce states such as Listening, Verifying, Active, and Cooldown. These states would let the Hub combine information from the Audio, Light, and Distance boards in smarter ways. For example, the Hub could ignore claps when the distance sensor shows that no one is near the device or require multiple confirmation checks from the Audio Front-End before activating the motor. This would directly support our requirements for accuracy, safety, and usability.
+
+Finally, Version 2.0 would benefit from better system wide debugging and calibration. Only the Hub currently outputs information over UART, and it is mostly used to display the distance ADC value. A future version could unify debugging so that the Hub reports audio thresholds, light sensor values, and distance readings together. Users or teammates could then adjust sensitivity or brightness mapping without editing the firmware on each board. This would make the entire system easier to tune and would help us meet our requirement for simple setup and consistent performance.
+
+Overall, Version 2.0 would not completely change the purpose of any subsystem, but it would improve how they cooperate. The Audio Front-End would provide richer clap information, the Light Sensor would offer more environmental context, the Distance Front-End would deliver cleaner and more stable data, and the Hub would coordinate everything through a smarter state machine. These changes would make the software more reliable, more accurate, and better aligned with the team’s product requirements.
+
+
 
 
 ## References
