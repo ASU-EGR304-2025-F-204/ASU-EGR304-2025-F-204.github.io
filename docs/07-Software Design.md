@@ -26,11 +26,10 @@ The diagram highlights how each part of the system including initialization, inp
 * Filters and interprets clap patterns to detect user input for toggling the light.
 
 
-### Set Output
-* Compares input data (frequency and decibel levels) against defined thresholds.  
+### Set ON/OFF
+* Compares input data (voltage from photoresistor and op-amp) against defined thresholds.  
 * Controls output pins for lighting, using the results of threshold checks.  
-* Enables proper state transitions (ON/OFF toggle or brightness adjustments).  
-* Implements both frequency-based and decibel-based decision paths.
+* Enables proper state transitions (ON/OFF toggle).  
 
 
 ### Update Brightness
