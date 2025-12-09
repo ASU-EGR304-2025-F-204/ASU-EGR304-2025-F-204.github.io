@@ -50,8 +50,8 @@ The diagram highlights how each part of the system including initialization, inp
 **Aaron Kiem – Audio Front-End**  
   Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.
 
-**Quinn Maness – Filter Board**  
-  Developed the filtering and filter adjustment system for the clap sound logic. Utilized a window comparator circuit with window comparator TLV6700DDCR and the active band-pass device BA3835F-E2 in order to create the filter threshold for decibel level and frequency, respectively. Implemented potentiometers onto both systems in order to allow for user adjustment of the threshold ranges for both frequency and decibel.
+**Quinn Maness – Light Sensor**  
+  Developed the system for sensing outside light to save power. Used a photoresistor and MCP6004 Op-Amp with a LM7805 voltage regulator. Configured the microcontroller to output a digital voltage based on the input from the photoresistor-MCP6004 system.
 
 **Roshan Roy Geoffrey Joe – Distance Sensor Front-End**  
   Designed and implemented the brightness-control logic driven by the distance sensor and MCP6002 op-amp. Configured the ADC on RA0 to read the amplified distance signal, filtered the readings in software, and mapped them into discrete brightness levels. Used DAC1 on RA2 to send a smooth, analog brightness command to the LED board through the ribbon cable.
