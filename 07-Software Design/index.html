@@ -947,8 +947,8 @@
   Developed the theoretical control logic for how the system coordinates all subsystems. Planned the initialization sequence, communication structure, and signal flow between boards.</p>
 <p><strong>Aaron Kiem – Audio Front-End</strong><br>
   Developed the sound detection and filtering logic. Configured the microphone and amplifier circuit using the MCP6022 op-amp and implemented ADC-based sampling to identify clap patterns while rejecting background noise.</p>
-<p><strong>Quinn Maness – Filter Board</strong><br>
-  Developed the filtering and filter adjustment system for the clap sound logic. Utilized a window comparator circuit with window comparator TLV6700DDCR and the active band-pass device BA3835F-E2 in order to create the filter threshold for decibel level and frequency, respectively. Implemented potentiometers onto both systems in order to allow for user adjustment of the threshold ranges for both frequency and decibel.</p>
+<p><strong>Quinn Maness – Light Sensor</strong><br>
+  Developed the system for sensing outside light to save power. Used a photoresistor and MCP6004 Op-Amp with a LM7805 voltage regulator. Configured the microcontroller to output a digital voltage based on the input from the photoresistor-MCP6004 system.</p>
 <p><strong>Roshan Roy Geoffrey Joe – Distance Sensor Front-End</strong><br>
   Designed and implemented the brightness-control logic driven by the distance sensor and MCP6002 op-amp. Configured the ADC on RA0 to read the amplified distance signal, filtered the readings in software, and mapped them into discrete brightness levels. Used DAC1 on RA2 to send a smooth, analog brightness command to the LED board through the ribbon cable.</p>
 <h2 id="software-version-20-discussion">Software Version 2.0 Discussion</h2>
