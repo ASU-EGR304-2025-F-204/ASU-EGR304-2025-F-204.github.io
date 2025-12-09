@@ -18,6 +18,7 @@ Upon working on this project each member learned various concepts such as:
 
 ### What You Should Know
 For future students:
+
 1. Ask others for help. Trust me, nobody knows what they're doing, so if you find someone who does dont be afraid to ask questions.
 2. Helping other students if you feel like you have somewhat of a grasp on something is essential to improving that understanding. Maybe you'll come across a problem that you didn't have--but maybe solving that problem will help you in the future.
 3. Do the labs before class. Dont get caught off guard by the hardest lab of all time... you'll get a zero.
