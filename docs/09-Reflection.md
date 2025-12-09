@@ -1,7 +1,10 @@
 ---
 title: Reflection
 ---
+
+### What We Learned
 Upon working on this project each member learned various concepts such as:
+
 * Navigating MPLAB X IDE and MCC Melody
 * Learning that we are able to connect each others subsystems through sharing a ground connection and by connecting our output signals
 * Learning how to navigate Kicad to create a schematic with custom symbols
@@ -13,7 +16,7 @@ Upon working on this project each member learned various concepts such as:
 * Coding a microcontroller
 * The difference between different types of pins (PWM, ADC, DAC, etc.)
 
-
+### What You Should Know
 For future students:
 1. Ask others for help. Trust me, nobody knows what they're doing, so if you find someone who does dont be afraid to ask questions.
 2. Helping other students if you feel like you have somewhat of a grasp on something is essential to improving that understanding. Maybe you'll come across a problem that you didn't have--but maybe solving that problem will help you in the future.
