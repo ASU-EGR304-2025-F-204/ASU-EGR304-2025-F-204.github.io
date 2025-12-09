@@ -626,9 +626,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#set-output" class="md-nav__link">
+  <a href="#set-onoff" class="md-nav__link">
     <span class="md-ellipsis">
-      Set Output
+      Set ON/OFF
     </span>
   </a>
   
@@ -835,9 +835,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#set-output" class="md-nav__link">
+  <a href="#set-onoff" class="md-nav__link">
     <span class="md-ellipsis">
-      Set Output
+      Set ON/OFF
     </span>
   </a>
   
@@ -927,12 +927,11 @@
 <li>Uses the ADC to convert sound amplitude into a digital value for comparison.  </li>
 <li>Filters and interprets clap patterns to detect user input for toggling the light.</li>
 </ul>
-<h3 id="set-output">Set Output</h3>
+<h3 id="set-onoff">Set ON/OFF</h3>
 <ul>
-<li>Compares input data (frequency and decibel levels) against defined thresholds.  </li>
+<li>Compares input data (voltage from photoresistor and op-amp) against defined thresholds.  </li>
 <li>Controls output pins for lighting, using the results of threshold checks.  </li>
-<li>Enables proper state transitions (ON/OFF toggle or brightness adjustments).  </li>
-<li>Implements both frequency-based and decibel-based decision paths.</li>
+<li>Enables proper state transitions (ON/OFF toggle).  </li>
 </ul>
 <h3 id="update-brightness">Update Brightness</h3>
 <ul>
